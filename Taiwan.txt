@@ -11,8 +11,13 @@
 民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 民視,http://23.237.10.66:16334?&備用
 民視,http://107.151.203.111:2209/135/us50.php?id=msk&備用
-民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=830
+民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民視新聞台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+民視新聞台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+民視新聞台,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=01
+民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=1
+民視新聞台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
 民視台灣台,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
