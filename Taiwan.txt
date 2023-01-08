@@ -89,6 +89,10 @@ TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch
 動物星球,http://50.7.168.234:8278/animalplanet_twn/playlist.m3u8?tid=MB5B6275336662753366&ct=19352&tsum=5f76852995fdfebd5e4e246756c198b0
 CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+ANIMAX,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
+ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+Nick Jr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
+尼克兒童頻道,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
 東森幼幼台,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MF8F6128293261282932&ct=19346&tsum=67766f11470c9d3e751c1b094ecdc886
 東森戲劇,http://60.251.33.252:18538/.m3u8
@@ -156,6 +160,7 @@ CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A48989836
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+momo,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
@@ -339,6 +344,7 @@ FashionTV,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 幼幼唱遊,https://git.io/JgYON
 幼幼唱遊,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+I-FUN動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 ELTA影劇,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
@@ -356,6 +362,7 @@ BabyTV,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct
 NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太,http://tv.redrainl.site:9500/live.m3u8?c=52
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
@@ -365,6 +372,7 @@ TIM JANIS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 GINX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
+History,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
 光影歐洲,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
