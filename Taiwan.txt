@@ -1,4 +1,3 @@
-TW,#genre#
 網路流行音樂台,https://git.io/JgkA6
 網路流行音樂台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=53
 網路流行音樂台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=109
