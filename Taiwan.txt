@@ -7,6 +7,7 @@
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
 豬哥亮歌廳秀,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=835
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/.m3u8
+金光布袋戲,http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
 民視,http://23.237.10.66:16334
 民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 民視,http://23.237.10.66:16334?&備用
