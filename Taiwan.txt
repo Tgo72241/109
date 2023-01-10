@@ -382,6 +382,7 @@ CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
 HITS,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 Lifetime娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+Live互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 TV5MONDE Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 TRACE Sport Stars,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
