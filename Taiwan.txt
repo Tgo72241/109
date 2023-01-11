@@ -50,6 +50,7 @@
 華視新聞資訊,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+華視綜合娛樂,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
