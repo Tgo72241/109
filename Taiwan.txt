@@ -106,17 +106,9 @@ Nick Jr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
 東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森洋片,http://120.84.96.73:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.78:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.85:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.89:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.96:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.120:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.126:808/hls/33/index.m3u8
-東森洋片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MFCF3637357836373578&ct=19346&tsum=f2948b5a5864c4f4647ab492775a0a27
-東森洋片,https://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-東森電影,http://120.84.96.78:808/hls/32/index.m3u8
 東森電影,http://120.84.96.85:808/hls/32/index.m3u8
 東森電影,http://120.84.96.89:808/hls/32/index.m3u8
 東森電影,http://120.84.96.96:808/hls/32/index.m3u8
@@ -125,8 +117,6 @@ Nick Jr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
 東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-東森電影,http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
-東森電影,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
