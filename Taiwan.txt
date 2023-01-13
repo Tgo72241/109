@@ -248,7 +248,6 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 國會頻道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 國會頻道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-HGTV家園頻道,http://198.16.64.10:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba
 幸福空間居家,https://git.io/JgYYF
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
