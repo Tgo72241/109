@@ -161,7 +161,7 @@ momo,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
-東風衛視,http://60.251.33.252:18560/.m3u8
+國興衛視,http://220.134.196.147:9545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 年代MUCH,http://220.134.196.147:9529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
