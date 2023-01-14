@@ -374,6 +374,7 @@ HITS,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 Lifetime娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 Live互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 TV5MONDE Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+TV5MONDE Style,https://epg.pw/stream/76beab4803babb0019bcd935ab3513abdb421e56eea13e0d711919ead8d315ab.m3u8
 TRACE Sport Stars,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
 TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo Live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
