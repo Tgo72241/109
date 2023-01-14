@@ -357,8 +357,6 @@ EuroSport 2,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
 EuroSport 2,http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
 BabyTV,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
 NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 新唐人亞太,http://tv.redrainl.site:9500/live.m3u8?c=52
