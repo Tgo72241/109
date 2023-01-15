@@ -201,6 +201,7 @@ JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A42026879420
 壹新聞,http://220.134.196.147:9570/http/116.50.42.18:8081/hls/66/808/ch24.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
