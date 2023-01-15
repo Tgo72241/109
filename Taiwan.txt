@@ -343,11 +343,14 @@ I-FUN動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 ELTA影劇,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 ELTA體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+ELTA體育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 ELTA體育2台,http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 ELTA體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 ELTA體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+ELTA體育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 ELTA體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 ELTA體育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
+ELTA體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 歐洲體育,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 歐洲體育,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 EuroSport 1,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4151
