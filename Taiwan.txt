@@ -100,6 +100,7 @@ ANIMAX,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 ANIMAX,http://220.134.196.147:9516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 Nick Jr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
 尼克兒童頻道,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
+東風衛視,http://220.134.196.147:9578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 東森幼幼台,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 東森幼幼台,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MF8F6128293261282932&ct=19346&tsum=67766f11470c9d3e751c1b094ecdc886
 東森戲劇,http://60.251.33.252:18538/.m3u8
