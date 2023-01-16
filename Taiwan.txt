@@ -189,7 +189,8 @@ momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_m
 衛視合家歡,http://60.251.33.252:18504/.m3u8
 衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
 衛視中文台,http://220.134.196.147:9554/index.m3u8
-衛視電影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+衛視電影台,http://www.yshmzmc.top/gtjm.php?id=live1031
+衛視電影台,http://www.yshmzmc.top/gtjm.php?id=live2022
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
 Star Movies Gold,http://220.134.196.147:9560/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 星衛娛樂台,http://23.237.10.66:16359
