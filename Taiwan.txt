@@ -380,6 +380,8 @@ History,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
 CinemaWorld,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
 ROCK Action,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
 HITS,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
+HITS,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941578&extension=ts&play_token=o5FnGLFjil
+HITS MOVIES,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941577&extension=ts&play_token=2qoVHSh3hm
 Lifetime娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 Live互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 TV5MONDE Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
