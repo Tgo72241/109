@@ -116,14 +116,11 @@ Nick Jr.,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
 東森洋片,http://120.84.96.89:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.96:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.126:808/hls/33/index.m3u8
-東森電影,http://120.84.96.85:808/hls/32/index.m3u8
-東森電影,http://120.84.96.89:808/hls/32/index.m3u8
 東森電影,http://120.84.96.96:808/hls/32/index.m3u8
 東森電影,http://120.84.96.120:808/hls/32/index.m3u8
 東森電影,http://120.84.96.126:808/hls/32/index.m3u8
 東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森LIVE,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
