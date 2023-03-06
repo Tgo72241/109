@@ -92,7 +92,7 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
-95,	ELTA體育1台
+ELTA體育1台,rtmp://119.81.124.89/sat/md031
 96,	ELTA體育2台
 97,	ELTA體育3台
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
@@ -148,7 +148,7 @@ WWE,https://epg.pw/stream/2a33b988e14a47177b28fcdf571eb381e7273d35a48971bdea175c
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-民視第一台,rtmp://119.81.124.89/sat/md031
+151,	民視第一台
 152,	民視台灣台HD
 中視菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
