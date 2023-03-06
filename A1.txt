@@ -61,7 +61,7 @@ TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 衛視電影台,http://220.134.196.147:9549/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-龍祥時代,http://120.84.96.89:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.113:808/hls/35/index.m3u8
 HBO,http://220.134.196.147:9539/http/116.50.42.18:8081/hls/71/813/ch41.m3u8
 東森洋片,https://epg.pw/stream/7f343d18098d3917b7ccdc821d132b1e9c460c2df50571308f399de98e071528.m3u8
 AXN,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/71/813/ch43.m3u8
