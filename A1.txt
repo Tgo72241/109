@@ -86,7 +86,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 86,	Z頻道HD
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 88,	八大娛樂台HD
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+LIVE三立,https://epg.pw/stream/fba2cdf1c78504b5d3d6c8c3c85bfc37f9cdaf505f063f5212cdc9368283d726.ctv
 非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
@@ -211,7 +211,6 @@ EuroSport 2,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
 SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-三立iNEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
