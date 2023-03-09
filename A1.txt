@@ -216,6 +216,7 @@ Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 4K超高清電影,http://159.75.85.63:5681/sxg.php
 TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華戲劇,http://123.51.230.108:18513/.m3u8
+龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/chunklist_w79659272.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
 
 
