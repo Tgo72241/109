@@ -204,7 +204,7 @@ EuroSport 2,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
 204,	博斯魅力台
 205,	博斯網球
 博斯運動II,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+207,	博斯無限
 208,	好消息2台HD
 幼幼唱遊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 佩佩豬,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
@@ -213,7 +213,6 @@ SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunkli
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-4K超高清電影,http://159.75.85.63:5681/sxg.php
 TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華戲劇,http://123.51.230.108:18513/.m3u8
 龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/chunklist_w79659272.m3u8
