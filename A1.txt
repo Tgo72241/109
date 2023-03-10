@@ -202,7 +202,7 @@ EuroSport 2,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
 202,	博斯高球2台
 203,	博斯無限二台
 204,	博斯魅力台
-博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+205,	博斯網球
 博斯運動II,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
 208,	好消息2台HD
