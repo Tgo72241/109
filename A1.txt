@@ -125,7 +125,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 滾動力,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
-時尚運動X,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+128,	時尚運動X
 智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
