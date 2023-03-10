@@ -46,7 +46,7 @@ ELTA影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943
 東森購物3,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8
 東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-壹新聞,http://60.251.59.180:8501/.m3u8
+49,	壹新聞
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森新聞,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 華視新聞資訊,http://220.134.196.147:9538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
