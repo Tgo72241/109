@@ -30,7 +30,7 @@ momo親子台,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/70/812/ch40
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 衛視中文台,http://220.134.196.147:9554/http/116.50.42.18:8081/hls/62/804/ch05.m3u8
 東森綜合,http://220.134.196.147:9553/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
-東森超視,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/64/806/ch14.m3u8
+東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
