@@ -138,7 +138,7 @@ Global Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklis
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 經典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
 精選動漫台,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
-THE K-POP,https://git.io/JgYAE
+THE K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
