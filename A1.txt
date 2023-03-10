@@ -147,6 +147,7 @@ WWE Network,https://epg.pw/stream/3250699c804947ff7c4b30a10183c0aadc933c9c11b4de
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+150,
 151,	民視第一台
 152,	民視台灣台HD
 中視菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
@@ -197,7 +198,7 @@ DMAX,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c
 歐洲體育,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 EuroSport 1,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4151
 EuroSport 2,http://kuchini.site:8080/9a7c64ba/d84b4b99e6/4152
-博斯高球I,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+201,	博斯高球I
 202,	博斯高球2台
 203,	博斯無限二台
 204,	博斯魅力台
