@@ -53,7 +53,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 民視新聞台,http://123.51.230.108:18663/.m3u8
 三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
 TVBS新聞台,rtmp://119.81.124.89/sat/tv551
-TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS,http://2023.stream-link.org/playlist/tvbs.flv
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/75/817/ch57.m3u8
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
