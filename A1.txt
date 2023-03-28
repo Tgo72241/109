@@ -48,7 +48,7 @@ ELTA影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 49,	壹新聞
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-東森新聞,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞,https://epg.pw/stream/16beed3c4693b22ccab93d1c17e315fcedd9c6a6fe5dd24a5f3ba6ea8eb8e931.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 民視新聞台,http://123.51.230.108:18663/.m3u8
 三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
@@ -124,7 +124,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 滾動力,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
-128,	時尚運動X
+國家地理,https://epg.pw/stream/1bbc5f568ebe2deb119efe35fc64720aa70baf381ec1991315166d5f1579b377.m3u8
 智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
