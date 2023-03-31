@@ -149,18 +149,17 @@ Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 152,	民視台灣台HD
 中視菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://2023.stream-link.org/live/966381653
 156,	台視財經台HD
 157,	台視綜合台HD
 158,	公視3台HD
-MUZZIK ZZ4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 161,	Boomerang卡通台
 162,	達文西頻道
-Discovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+Discovery Asia
 164,	BBC Earth
 新唐人亞太,https://epg.pw/stream/9a7baa7372f57fc90c4962ff26fa1c2138539014f1e820868b2b848375c1e1b4.m3u8
-國家地理野生,https://epg.pw/stream/edd23b23cb33e0e4a7cabdd0724c0c4667ba735204b47eacd4554bcc25cd2836.m3u8
+國家地理野生
 167,	Discovery科學頻道
 168,	tvN HD
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
@@ -192,9 +191,9 @@ HBO原創鉅獻,https://epg.pw/stream/c4c262a5d2aad137a5a92d956c415ec15a152ea456
 HBO溫馨家庭,https://epg.pw/stream/741e1b092650c5cc93d0c3cd670e653e7134c42ea6348a2ab3dd23eed2f907d2.m3u8
 196,	星衛HD電影台
 美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-歐洲體育,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+歐洲體育
 Eurosport 1,https://epg.pw/stream/b5f7b20dc2d840670def315e2c3b358f01640410a8117a9349dfdff0e8f4b2d9.ctv
-Eurosport 2,https://epg.pw/stream/f86f22df4b7220efd9585e076ae56b8d2d884ff2ab6a6f53d38ee3149644883f.ctv
+Eurosport 2
 201,	博斯高球I
 202,	博斯高球2台
 203,	博斯無限二台
@@ -211,8 +210,9 @@ SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunkli
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-龍華戲劇,http://123.51.230.108:18513/.m3u8
+龍華戲劇,https://epg.pw/stream/da52481191e5a23d4faaea38e0e28099c6e041b12d93239666da02841e4c647c.m3u8
 龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/chunklist_w79659272.m3u8
+龍華洋片,https://epg.pw/stream/e14173d95a85c8e79a4882538f59722b68280274296eb8cdc26b3bdd13ca5aee.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
 東森LIVE,http://2023.stream-link.org/live/1793825065
 
