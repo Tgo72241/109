@@ -53,7 +53,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 民視新聞台,http://123.51.230.108:18663/.m3u8
 三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
 TVBS新聞台,rtmp://119.81.124.89/sat/tv551
-TVBS,http://2023.stream-link.org/playlist/tvbs.flv
+TVBS
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/75/817/ch57.m3u8
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
@@ -122,7 +122,6 @@ NHK,http://123.51.229.65:18525/.m3u8
 采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 滾動力,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
-國家地理,https://epg.pw/stream/1bbc5f568ebe2deb119efe35fc64720aa70baf381ec1991315166d5f1579b377.m3u8
 智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
@@ -140,7 +139,7 @@ THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop TVPLAY,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-WWE,https://epg.pw/stream/2750ed6271c28a02ee123f786e6e36bcb07ee0473962ca4deec4078307d0ac04.m3u8
+WWE
 WWE Network,https://epg.pw/stream/3250699c804947ff7c4b30a10183c0aadc933c9c11b4de72bc443e6d8b9afc0e.ctv
 RAW,https://epg.pw/stream/54871a39e596a60d0cb8682ba1ce70068bf159e70a1f20b05433aa2f24431b62.ctv
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
