@@ -59,16 +59,16 @@ TVBS,http://2023.stream-link.org/playlist/tvbs.flv
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 衛視電影台,http://220.134.196.147:9549/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
-東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,http://120.84.96.87:808/hls/32/index.m3u8
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-龍祥時代,http://120.84.96.113:808/hls/35/index.m3u8
+龍祥時代,https://epg.pw/stream/8738df78e8d4a4527d411c82940daa7b62f8566eb593fbca51fa024c722076c7.m3u8
 HBO,http://220.134.196.147:9539/http/116.50.42.18:8081/hls/71/813/ch41.m3u8
 東森洋片,https://epg.pw/stream/7f343d18098d3917b7ccdc821d132b1e9c460c2df50571308f399de98e071528.m3u8
 AXN,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/71/813/ch43.m3u8
 好萊塢電影,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/74/816/ch55.m3u8
 69,	STAR Movies Gold HD
 CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
-緯來育樂,http://123.51.229.65:18541/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來育樂,rtmp://119.81.124.89/sat/tv701
 緯來體育,http://60.251.33.252:18509/.m3u8
 ELEVEN 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
@@ -86,14 +86,12 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 86,	Z頻道HD
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 88,	八大娛樂台HD
-LIVE三立,https://epg.pw/stream/fba2cdf1c78504b5d3d6c8c3c85bfc37f9cdaf505f063f5212cdc9368283d726.ctv
 非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
-ELTA體育1台,rtmp://219.80.97.77/sat/md041
-ELTA體育2台,rtmp://219.80.97.77/sat/md051
+ELTA體育1台,rtmp://219.80.97.77/sat/md031
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
