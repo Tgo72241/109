@@ -48,7 +48,7 @@ ELTA影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 49,	壹新聞
 年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-東森新聞,https://epg.pw/stream/972531fd9f727b7932215aafbdf37e5d0c59e5518209fea22da306a13f4ced08.m3u8
+東森新聞,http://220.134.196.147:9535/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 民視新聞台,http://123.51.230.108:18663/.m3u8
 三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
