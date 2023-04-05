@@ -177,10 +177,10 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 181,	BBC Lifestyle
 182,	亞洲美食頻道
 183,	HGTV居家樂活頻道
-184,	MTV Live HD
+SPOTV,https://epg.pw/stream/9517063c4cc0e05fd08cf511364a0a744cc5de3807df065afa0574946df6ef1c.m3u8
+SPOTV 2,https://epg.pw/stream/73b136ada815658f43b8434349ab9ae41bb3bf4abe480d9eaa8d54566f0c0251.ctv
 TV5MONDE Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 Mezzo Live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
-187,	LOVE NATURE
 DMAX,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 影迷數位紀實台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 190,	CATCHPLAY電影台
