@@ -146,8 +146,10 @@ RAW,https://epg.pw/stream/54871a39e596a60d0cb8682ba1ce70068bf159e70a1f20b05433aa
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-151,	民視第一台
-152,	民視台灣台HD
+民視第一台,http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+民視影劇,http://www.336699.live:1935/blockfive/litv-ftv09.stream/playlist.m3u8
+民視旅遊,http://www.336699.live:1935/blockfive/litv-ftv07.stream/playlist.m3u8
 中視菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台視新聞,http://2023.stream-link.org/live/966381653
