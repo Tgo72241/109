@@ -67,7 +67,7 @@ HBO,http://220.134.196.147:9539/http/116.50.42.18:8081/hls/71/813/ch41.m3u8
 AXN,https://epg.pw/stream/0151a613033e0cbec6f38ab849cc17912ac053846bb98b97ec73873dd2d830e5.m3u8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 69,	STAR Movies Gold HD
-CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 緯來育樂,rtmp://119.81.124.89/sat/tv701
 緯來體育,http://60.251.33.252:18509/.m3u8
 ELEVEN 1,http://220.134.196.147:9566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
