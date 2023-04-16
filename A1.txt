@@ -216,6 +216,7 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
 東森LIVE,http://2023.stream-link.org/live/1793825065
 LIVE三立,http://2023.stream-link.org/live/1803236734
+Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
