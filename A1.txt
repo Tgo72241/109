@@ -96,6 +96,7 @@ ELTA體育3台,rtmp://219.80.97.77/sat/md031
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+J Sports 4,https://epg.pw/stream/7b7267b9e338b50d3d2c25849810a43b488ee311b0090a5bb2b140350eaf2678.m3u8
 儒釋道經,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
