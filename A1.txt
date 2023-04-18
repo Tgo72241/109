@@ -160,7 +160,7 @@ Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 161,	Boomerang卡通台
 162,	達文西頻道
 Discovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-164,	BBC Earth
+BBC Earth,https://epg.pw/stream/7a9ff50c3569cbab5fc2d35ee15d3815a98e1449b0d9300efbb26686a17c3379.m3u8
 新唐人亞太,https://epg.pw/stream/9a7baa7372f57fc90c4962ff26fa1c2138539014f1e820868b2b848375c1e1b4.m3u8
 國家地理野生,http://103.68.63.37:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 Discovery科學,http://103.68.63.37:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
@@ -177,7 +177,7 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
-181,	BBC Lifestyle
+BBC Lifestyle,https://epg.pw/stream/77bb770421732453f0fe8bb928ded7626dcde5a11f33e1fd94bb4efc9460807a.m3u8
 182,	亞洲美食頻道
 183,	HGTV居家樂活頻道
 TV5MONDE Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
