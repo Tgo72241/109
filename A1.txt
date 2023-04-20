@@ -1,6 +1,6 @@
 經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-豬哥亮歌廳秀,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+3, 豬哥亮歌廳秀
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 民視,rtmp://119.81.124.89/sat/tv051
@@ -21,7 +21,7 @@ TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch
 動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 22,	CN卡通頻道
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-momo親子台,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
+24, momo親子台
 東森幼幼台,https://epg.pw/stream/5f25ec2492fbcd7ccb50e41f737bd95d3ed70bc91547e5c10ffaaf3b2f7086ea.m3u8
 緯來綜合,http://123.51.229.65:18540/.m3u8
 八大第一台,http://60.251.33.252:18539/.m3u8
@@ -91,8 +91,9 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
-ELTA體育2台,rtmp://219.80.97.77/sat/md031
-ELTA體育3台,rtmp://219.80.97.77/sat/md041
+ELTA體育1台,rtmp://219.80.97.77/sat/md051
+ELTA體育2台,rtmp://219.80.97.77/sat/md041
+ELTA體育3台,rtmp://219.80.97.77/sat/md031
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
