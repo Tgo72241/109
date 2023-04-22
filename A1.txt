@@ -5,7 +5,7 @@
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 民視,rtmp://9wv7.mine.nu/sat/tv051
 人間衛視,http://218.32.47.179:8506/http/116.50.42.18:8081/hls/69/811/ch36.m3u8
-台視,http://23.237.10.66:16344
+台視,rtmp://9wv7.mine.nu/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://119.81.124.89/sat/tv091
 中天新聞,http://2023.stream-link.org/live/1552993665
