@@ -63,7 +63,7 @@ TVBS,https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代,https://epg.pw/stream/8738df78e8d4a4527d411c82940daa7b62f8566eb593fbca51fa024c722076c7.m3u8
 HBO,http://220.134.196.147:9539/http/116.50.42.18:8081/hls/71/813/ch41.m3u8
-東森洋片,https://epg.pw/stream/7f343d18098d3917b7ccdc821d132b1e9c460c2df50571308f399de98e071528.m3u8
+東森洋片,http://120.84.96.87:808/hls/33/index.m3u8
 AXN,https://epg.pw/stream/0151a613033e0cbec6f38ab849cc17912ac053846bb98b97ec73873dd2d830e5.m3u8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 69,	STAR Movies Gold HD
