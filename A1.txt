@@ -8,7 +8,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 台視,rtmp://9wv7.mine.nu/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://9wv7.mine.nu/sat/tv091
-中天新聞,http://2023.stream-link.org/live/1552993665
+中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=3
 華視,rtmp://119.81.124.89/sat/tv111
 公視,https://epg.pw/stream/25c5d6a4df85e3a524629829d865e41305767335097d38df3aefd524b6dd90d7.m3u8
 14,	公視台語台
