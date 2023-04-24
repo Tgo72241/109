@@ -12,7 +12,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 華視,rtmp://119.81.124.89/sat/tv111
 公視,https://epg.pw/stream/25c5d6a4df85e3a524629829d865e41305767335097d38df3aefd524b6dd90d7.m3u8
 14,	公視台語台
-好消息,http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 17,	客家電視台HD
 國家地理,https://epg.pw/stream/fc0287daf8043a40fa0761d7e0c2cc07338f43055a9292f95aaa43c99c27e458.m3u8
