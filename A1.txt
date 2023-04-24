@@ -187,7 +187,7 @@ DMAX,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c
 影迷數位紀實台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 CatchPlay電影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
 191,	amc最愛電影
-HBO HD,https://epg.pw/stream/1b63b82145c061590883f886255315479dcce4002977d64224c51ffd7dcc806f.m3u8
+HBO HD,https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970bee95dc.m3u8
 HBO強檔鉅獻,https://epg.pw/stream/8887788bfdfa7fe927f5fac05deda3d3874757c6d008913512dca9c7a8bc5187.m3u8
 HBO原創鉅獻,https://epg.pw/stream/02a3b885fbba006403a81300cbdadc1bb04012edfc2d4b82615f0b1c29748422.m3u8
 HBO溫馨家庭,https://epg.pw/stream/741e1b092650c5cc93d0c3cd670e653e7134c42ea6348a2ab3dd23eed2f907d2.m3u8
