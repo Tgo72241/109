@@ -199,7 +199,7 @@ Eurosport 2,https://epg.pw/stream/2ed93c7063e7f367846fa2f33263da6e33d8b3995727eb
 博斯高球I,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球II,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 203,	博斯無限二台
-204,	博斯魅力台
+博斯魅力,https://epg.pw/stream/e09998a3a6e93436bd5987a57eec03f908cea188f213a66a166259aa093d178b.m3u8
 博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯運動II,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
 207,	博斯無限
