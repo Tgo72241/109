@@ -212,7 +212,7 @@ SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunkli
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-龍華戲劇,https://epg.pw/stream/da52481191e5a23d4faaea38e0e28099c6e041b12d93239666da02841e4c647c.m3u8
+龍華戲劇,http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/chunklist_w79659272.m3u8
 龍華洋片,https://epg.pw/stream/e14173d95a85c8e79a4882538f59722b68280274296eb8cdc26b3bdd13ca5aee.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
