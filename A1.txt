@@ -177,7 +177,7 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
+亞洲旅遊台,https://epg.pw/stream/27b7c5b3c77fcc6e9e81bd8c7bd2788f735ab37bc20eee6a740b1fb7815b8802.m3u8
 BBC Lifestyle,https://epg.pw/stream/77bb770421732453f0fe8bb928ded7626dcde5a11f33e1fd94bb4efc9460807a.m3u8
 182,	亞洲美食頻道
 183,	HGTV居家樂活頻道
