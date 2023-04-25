@@ -215,6 +215,7 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華戲劇,http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/chunklist_w79659272.m3u8
 龍華洋片,https://epg.pw/stream/e14173d95a85c8e79a4882538f59722b68280274296eb8cdc26b3bdd13ca5aee.m3u8
+龍華偶像,https://epg.pw/stream/5bb17423af2bdf0fe201b9c7f86ec1b92081c92a8df002f3c957286e9844e49a.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
 東森LIVE,http://2023.stream-link.org/live/1793825065
 LIVE三立,http://2023.stream-link.org/live/1803236734
