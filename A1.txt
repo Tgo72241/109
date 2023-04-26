@@ -1,4 +1,4 @@
-經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+經典電影台,https://epg.pw/stream/797823e7dac3214a79ae7353ee1eddc47a7e59f57fbeb1fe73b534b967b57736.ctv
 金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 3, 豬哥亮歌廳秀
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
