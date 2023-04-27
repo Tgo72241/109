@@ -43,7 +43,7 @@ TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
 緯來戲劇,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 ELTA影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 45,	JET 綜合台HD
-東森購物3,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8
+東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 壹新聞,http://220.134.196.147:9545/http/116.50.42.18:8088/hls/66/808/ch24.m3u8?token=
