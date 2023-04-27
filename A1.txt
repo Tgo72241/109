@@ -91,8 +91,8 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
-ELTA體育1台,rtmp://219.80.97.77/sat/md051
-ELTA體育2台,rtmp://219.80.97.77/sat/md041
+ELTA體育1台,rtmp://219.80.97.77/sat/md021
+ELTA體育2台,rtmp://219.80.97.77/sat/md051
 ELTA體育3台,rtmp://219.80.97.77/sat/md031
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
