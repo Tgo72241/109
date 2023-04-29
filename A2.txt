@@ -195,7 +195,7 @@ HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=
 美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 歐洲體育
 Eurosport 1,https://epg.pw/stream/019390a9e2a2a9946415582efe1c2c436e87a5b1ebc26e4404eb7b2c5cf41f3a.m3u8
-Eurosport 2,https://epg.pw/stream/2ed93c7063e7f367846fa2f33263da6e33d8b3995727eb2bcec7f49004da60a8.m3u8
+Eurosport 2,https://epg.pw/stream/d641fc2ef24812166f9c518e93ec759b8d52ac461e4726eebfd3feb10923500f.m3u8
 博斯高球I,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球II,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 203,	博斯無限二台
