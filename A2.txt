@@ -18,7 +18,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 國家地理,https://epg.pw/stream/fc0287daf8043a40fa0761d7e0c2cc07338f43055a9292f95aaa43c99c27e458.m3u8
 Discovery,http://50.7.238.114:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+動物星球,https://epg.pw/stream/f5a22cb5fb5c79380a858ba50f1ab532803861b61ab41fb0d1cff3e825c771c1.m3u8
 22,	CN卡通頻道
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 24, momo親子台
