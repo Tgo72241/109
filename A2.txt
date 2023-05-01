@@ -141,11 +141,9 @@ THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop TVPLAY,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-WWE,https://epg.pw/stream/4a69224afa6e59301a2c6adfdcab10226d0a9da8be1612ed535a74ac1b504514.ctv
-FIGHT NETWORK,http://ys-users.com:8080/grwwest@outlook.com/G9H2bCq3NV/418208
-RAW,https://epg.pw/stream/54871a39e596a60d0cb8682ba1ce70068bf159e70a1f20b05433aa2f24431b62.ctv
+WWE,https://epg.pw/stream/8646de54bef57b68c39474f5723f7c45cba7a1fb89575f31d742c8baff818cbc.ctv
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
-Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+Arirang,https://epg.pw/stream/232adddb0a3781d0450afa0b90fc688d8bebd38afd037e2f6f5fcc64fc34c9b8.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民視第一台,https://epg.pw/stream/de5e07171860416f60dd19abe0faf3d9be7c1e714a9099113df545091f081bf9.m3u8
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
