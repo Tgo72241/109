@@ -142,6 +142,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop TVPLAY,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 WWE,https://epg.pw/stream/8646de54bef57b68c39474f5723f7c45cba7a1fb89575f31d742c8baff818cbc.ctv
+wwe network,https://epg.pw/stream/e941797be6fc0dfa7adbc0d1f198d57cf6fbbe78fd72d979b5f8ec02e2334a56.ctv
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 Arirang,https://epg.pw/stream/232adddb0a3781d0450afa0b90fc688d8bebd38afd037e2f6f5fcc64fc34c9b8.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
