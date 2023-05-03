@@ -59,11 +59,11 @@ TVBS,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=56
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 衛視電影台,https://epg.pw/stream/c7a868db7575a6cb495f0019bd083d5718523977721ef3f5e51afcf9ef1761b8.ctv
-東森電影,http://120.84.96.87:808/hls/32/index.m3u8
+東森電影,https://epg.pw/stream/ef8654ed794aee38ce5fa3edc0c484c745ec70515f63dedf8b7964c35e0fa475.m3u8
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代,http://120.84.96.87:808/hls/35/index.m3u8
 HBO,https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970bee95dc.m3u8
-東森洋片,http://120.84.96.87:808/hls/33/index.m3u8
+東森洋片,https://epg.pw/stream/a73eba48acf0dd831c14601ead4911c35d42d1c2543d82219f885c658230d9b5.m3u8
 AXN,https://epg.pw/stream/95e1a7e4e5c6ee74c48ae766038dbe42324edbcc608569ac804aaa616c7acb71.m3u8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 Star Movies Gold,https://epg.pw/stream/ee42cb655c2cdd50e4427068bf8d6a9604de8ef6c150a2d06125a4f890fe4efa.m3u8
