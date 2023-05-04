@@ -64,7 +64,7 @@ TVBS,http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=56
 龍祥時代,https://epg.pw/stream/661fb95b7b74b545c0bd55840934d1c493159deff14bdc9f8e5a48b24d11af4e.m3u8
 HBO,https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970bee95dc.m3u8
 東森洋片,https://epg.pw/stream/a73eba48acf0dd831c14601ead4911c35d42d1c2543d82219f885c658230d9b5.m3u8
-AXN,https://epg.pw/stream/95e1a7e4e5c6ee74c48ae766038dbe42324edbcc608569ac804aaa616c7acb71.m3u8
+AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 Star Movies Gold,https://epg.pw/stream/ee42cb655c2cdd50e4427068bf8d6a9604de8ef6c150a2d06125a4f890fe4efa.m3u8
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
