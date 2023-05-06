@@ -22,7 +22,7 @@ TLC旅遊生活,mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f
 CN卡通頻道,https://epg.pw/stream/4f607df1df35538e52751460c37730e2ec277ed2dab046fc51872d50cd80b787.m3u8
 迪士尼動畫,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 momo親子台,http://123.51.230.124:8536/.m3u8
-東森幼幼台,https://epg.pw/stream/5f25ec2492fbcd7ccb50e41f737bd95d3ed70bc91547e5c10ffaaf3b2f7086ea.m3u8
+東森幼幼台,mitv://generationnexxxt.com:19806/23305327c764422e9747ab09a6edee43
 緯來綜合,http://123.51.229.65:18540/.m3u8
 八大第一台,http://60.251.33.252:18539/.m3u8
 八大綜合台,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
