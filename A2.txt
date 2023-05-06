@@ -28,7 +28,7 @@ momo親子台,
 八大綜合台,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 三立台灣台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-衛視中文台,http://220.134.196.147:9554/http/116.50.42.18:8081/hls/62/804/ch05.m3u8
+衛視中文台,mitv://generationnexxxt.com:19806/9d38f569252d4317834d6c9a9ae03a32
 東森綜合,http://220.134.196.147:9553/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
@@ -83,6 +83,7 @@ Animax,mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 中天美食旅遊,https://epg.pw/stream/a3e83b4af58af5bc4f746bddf5e93464b42f98103a3047841fbd4081217a4922.m3u8
 寰宇新聞,https://epg.pw/stream/ca6c7d814e93b0bcc2feb9cdcaaf958dc1b348c4f34d8c0f6203b845edf7b53b.ctv
+寰宇新聞台灣台,mitv://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027
 Z頻道,mitv://generationnexxxt.com:19806/2a5836bb5cae422b95e2a523e488bb24
 Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 八大娛樂台,mitv://generationnexxxt.com:19806/58f45dfdc5c8449d94b4341a63fe9031
@@ -134,6 +135,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 靖天電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 Global Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖洋卡通,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
 THE K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -152,7 +154,7 @@ Arirang,https://epg.pw/stream/232adddb0a3781d0450afa0b90fc688d8bebd38afd037e2f6f
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台視新聞,http://2023.stream-link.org/live/966381653
 高點綜合,mitv://generationnexxxt.com:19806/d05d3a06c9ec4c4fb9bdb0f9e09127bf
-157,	台視綜合台HD
+Dreamworks,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
 158,	公視3台HD
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 161,	Boomerang卡通台
@@ -194,6 +196,7 @@ HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=
 歐洲體育,mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45
 Eurosport 1,https://epg.pw/stream/91ccd37a627380a1d59a06acf46de19f859b709ed4ab3f185fe2ebf544f15339.ctv
 Eurosport 2,https://epg.pw/stream/904ce5542e14a32ce7be253bc271a715f2394bd0d1912714e52ccbb95af561ba.ctv
+SPOTV,mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
 博斯高球I,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球II,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 203,	博斯無限二台
