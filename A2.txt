@@ -33,10 +33,10 @@ momo親子台,
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-中天綜合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天綜合,https://epg.pw/stream/88c9f76780451df25873d1ffad13e07744133dc2e0c092123ba8a85dc55d07c5.m3u8
 東風衛視,http://123.51.229.65:18560/.m3u8
 年代MUCH,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-中天娛樂,http://220.134.196.147:9547/http/116.50.42.18:8081/hls/67/809/ch26.m3u8
+中天娛樂,https://epg.pw/stream/2a766792bf76bb53014178fc43b982026f98d314b56172959af90e92509d976b.m3u8
 東森戲劇,http://60.251.33.252:18538/.m3u8
 八大戲劇台,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
