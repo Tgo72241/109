@@ -81,7 +81,6 @@ ELTA娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3
 Animax,mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
 台灣歌謠,http://59.120.149.80/0.ts
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-中天美食旅遊,https://epg.pw/stream/a3e83b4af58af5bc4f746bddf5e93464b42f98103a3047841fbd4081217a4922.m3u8
 寰宇新聞,https://epg.pw/stream/ca6c7d814e93b0bcc2feb9cdcaaf958dc1b348c4f34d8c0f6203b845edf7b53b.ctv
 寰宇新聞台灣台,mitv://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027
 Z頻道,mitv://generationnexxxt.com:19806/2a5836bb5cae422b95e2a523e488bb24
@@ -90,11 +89,10 @@ Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m
 非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
-發現心嘉義,http://61.58.60.230:9319/live/101.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
 ELTA體育1台,https://epg.pw/stream/100a5aed4e01db84db6e3c0bef8a4f30a294b70b272d6e6bb3bc49ffd1544215.m3u8
 ELTA體育2台,rtmp://219.80.97.77/sat/md051
-ELTA體育3台,rtmp://219.80.97.77/sat/md031
+ELTA體育3台,rtmp://219.80.97.77/sat/md041
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
@@ -106,23 +104,14 @@ J Sports 4,https://epg.pw/stream/7b7267b9e338b50d3d2c25849810a43b488ee311b0090a5
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 車迷TV,http://210.210.155.35/uq2663/h/h09/01.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-正德,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-光影歐洲,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-Lifetime娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-Live互動英語,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 NBA,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
-GINX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
-I-FUN動漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 大立DALI,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-TRACE Sport Stars,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 NHK,http://123.51.229.65:18525/.m3u8
 國會頻道1,http://61.58.60.230:9319/live/123.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
-采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 滾動力,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 智林體育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
@@ -135,7 +124,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 靖天電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 Global Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 靖洋戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-靖洋卡通,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
+靖洋卡通台,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
 THE K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -144,7 +133,6 @@ AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 WWE,https://epg.pw/stream/8646de54bef57b68c39474f5723f7c45cba7a1fb89575f31d742c8baff818cbc.ctv
 wwe network,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
-Arirang,https://epg.pw/stream/232adddb0a3781d0450afa0b90fc688d8bebd38afd037e2f6f5fcc64fc34c9b8.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民視第一台,https://epg.pw/stream/de5e07171860416f60dd19abe0faf3d9be7c1e714a9099113df545091f081bf9.m3u8
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
@@ -181,8 +169,6 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 BBC Lifestyle,https://epg.pw/stream/77bb770421732453f0fe8bb928ded7626dcde5a11f33e1fd94bb4efc9460807a.m3u8
 182,	亞洲美食頻道
 183,	HGTV居家樂活頻道
-TV5MONDE Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
-Mezzo Live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 DMAX,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 影迷數位紀實台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 CatchPlay電影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
@@ -207,8 +193,6 @@ SPOTV,mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
 208,	好消息2台HD
 幼幼唱遊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 佩佩豬,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-SBN全球財經,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
@@ -218,8 +202,7 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華洋片,https://epg.pw/stream/e14173d95a85c8e79a4882538f59722b68280274296eb8cdc26b3bdd13ca5aee.m3u8
 龍華偶像,https://epg.pw/stream/5bb17423af2bdf0fe201b9c7f86ec1b92081c92a8df002f3c957286e9844e49a.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
-東森LIVE,http://2023.stream-link.org/live/1793825065
-LIVE三立,http://2023.stream-link.org/live/1803236734
+東森LIVE,https://epg.pw/stream/03d90bc63d606a30a1b0477252fcbf3b8f3e492eebf844de0905dd6078d5110b.m3u8
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
@@ -326,14 +309,3 @@ GOOD TV CH47 牧者頻道,https://live.streamingfast.net/osmflivech47.m3u8
 GOOD TV CH49 禱告頻道,https://live.streamingfast.net/osmflivech49.m3u8
 GOOD TV CH50 國際講員 中文發音,https://live.streamingfast.net/osmflivech50.m3u8
 GOOD TV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-
-
-
-
-
-
-
-
-
-
-
