@@ -62,7 +62,7 @@ TVBS,https://epg.pw/stream/d3883406aad4817e156413ea3d9996811cf58c7bd287286175ebe
 東森電影,https://epg.pw/stream/ef8654ed794aee38ce5fa3edc0c484c745ec70515f63dedf8b7964c35e0fa475.m3u8
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代,https://epg.pw/stream/661fb95b7b74b545c0bd55840934d1c493159deff14bdc9f8e5a48b24d11af4e.m3u8
-HBO,https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970bee95dc.m3u8
+HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 東森洋片,https://epg.pw/stream/a73eba48acf0dd831c14601ead4911c35d42d1c2543d82219f885c658230d9b5.m3u8
 AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
 好萊塢電影,mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
