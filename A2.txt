@@ -48,7 +48,7 @@ JET綜合,mitv://generationnexxxt.com:19806/4b790bc46760452b8dd811bf9389ff73
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 壹新聞,http://dispatch.52glb.com/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&timestamp=1683695957&rand=1pqF8TQvZx&uuid=9b647b3816b2a66a&from=web&sign=21ebec17c316a163c1131e69f424bccc
 年代新聞,https://epg.pw/stream/69d164a61dca4dbfce274c0bb44d748584064a9e9d9f493864f03fb44fc2d0eb.m3u8
-東森新聞,http://209.141.47.175/kstv2.php?id=488
+東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
 民視新聞台,http://123.51.230.108:18663/.m3u8
 三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
