@@ -203,6 +203,7 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 周星星,http://live.aptvapp.com/live/huya/11342412
 東森LIVE,https://epg.pw/stream/03d90bc63d606a30a1b0477252fcbf3b8f3e492eebf844de0905dd6078d5110b.m3u8
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+SkySportsF1,http://198.16.100.90:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
