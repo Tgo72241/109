@@ -189,7 +189,7 @@ SPOTV,mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
 博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯運動II,https://epg.pw/stream/69940be449716bb7fa354f4214029edd4d9a6d447677cabc9de5a6daf40af43b.m3u8
 207,	博斯無限
-208,	好消息2台HD
+好消息2,http://50.7.238.114:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
 幼幼唱遊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 佩佩豬,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
