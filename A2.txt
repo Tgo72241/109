@@ -10,7 +10,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 中視,rtmp://9wv7.mine.nu/sat/tv091
 中天新聞,https://epg.pw/stream/918ddce915a16e72f918f78020e5d27708cd46aa6e9c7da77148114d24e083d2.ctv
 華視,rtmp://119.81.124.89/sat/tv111
-公視,https://epg.pw/stream/173fa03f4310f5ed33b0f654ee8ae821bd1403a887792c7a40f8fd7399783b45.m3u8
+公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 14,	公視台語台
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
