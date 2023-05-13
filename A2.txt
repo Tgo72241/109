@@ -15,7 +15,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 客家電視台,mitv://generationnexxxt.com:19806/4e013b4f51924d289c248b45b4d74f58
-國家地理台灣,https://epg.pw/stream/f5f535890c407171d1b9321d1e62df30551f51376413645527ec8fd20719fa5c.m3u8
+國家地理台灣,http://61.221.81.93:8078/hls/12/80/ngc.m3u8
 Discovery,http://50.7.238.114:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 TLC旅遊生活,mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f67
 動物星球,https://epg.pw/stream/f5a22cb5fb5c79380a858ba50f1ab532803861b61ab41fb0d1cff3e825c771c1.m3u8
