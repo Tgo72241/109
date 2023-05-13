@@ -129,7 +129,7 @@ THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop TVPLAY,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-WWE,https://epg.pw/stream/8646de54bef57b68c39474f5723f7c45cba7a1fb89575f31d742c8baff818cbc.ctv
+WWE,https://epg.pw/stream/cd993da3aead9de18b9b55f5fc2d6e1d6a3fc26b1f686ddcc15fd21da3dea25b.ctv
 wwe network,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
