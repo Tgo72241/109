@@ -35,7 +35,7 @@ momo親子台,
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天綜合,https://epg.pw/stream/88c9f76780451df25873d1ffad13e07744133dc2e0c092123ba8a85dc55d07c5.m3u8
 東風衛視,http://123.51.229.65:18560/.m3u8
-年代MUCH,http://220.134.196.147:9550/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+年代MUCH,http://61.221.81.93:8078/hls/27/80/much.m3u8
 中天娛樂,https://epg.pw/stream/2a766792bf76bb53014178fc43b982026f98d314b56172959af90e92509d976b.m3u8
 東森戲劇,http://60.251.33.252:18538/.m3u8
 八大戲劇台,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
