@@ -36,12 +36,12 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天綜合,https://epg.pw/stream/88c9f76780451df25873d1ffad13e07744133dc2e0c092123ba8a85dc55d07c5.m3u8
 東風衛視,http://123.51.229.65:18560/.m3u8
 年代MUCH,http://61.221.81.93:8078/hls/27/80/much.m3u8
-中天娛樂,https://epg.pw/stream/2a766792bf76bb53014178fc43b982026f98d314b56172959af90e92509d976b.m3u8
+中天娛樂,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 東森戲劇,http://60.251.33.252:18538/.m3u8
 八大戲劇台,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 TVBS歡樂台,rtmp://119.81.124.89/sat/tv421
 緯來戲劇,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-ELTA影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+ELTA影劇,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 JET綜合,mitv://generationnexxxt.com:19806/4b790bc46760452b8dd811bf9389ff73
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
@@ -58,8 +58,8 @@ TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=192
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-衛視電影台,https://epg.pw/stream/c7a868db7575a6cb495f0019bd083d5718523977721ef3f5e51afcf9ef1761b8.ctv
-東森電影,https://epg.pw/stream/ef8654ed794aee38ce5fa3edc0c484c745ec70515f63dedf8b7964c35e0fa475.m3u8
+衛視電影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
+東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代,https://epg.pw/stream/661fb95b7b74b545c0bd55840934d1c493159deff14bdc9f8e5a48b24d11af4e.m3u8
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
