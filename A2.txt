@@ -51,7 +51,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 中天新聞,https://epg.pw/stream/918ddce915a16e72f918f78020e5d27708cd46aa6e9c7da77148114d24e083d2.ctv
 民視新聞台,http://123.51.230.108:18663/.m3u8
-三立新聞,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
+三立新聞,https://epg.pw/stream/b9417fe624b393f25184fb639d7b22a62fc18a618b2472573956390b5ade0309.ctv
 TVBS新聞台,rtmp://119.81.124.89/sat/tv551
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
