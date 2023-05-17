@@ -67,10 +67,10 @@ HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
 好萊塢電影,mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
 Star Movies Gold,https://epg.pw/stream/ee42cb655c2cdd50e4427068bf8d6a9604de8ef6c150a2d06125a4f890fe4efa.m3u8
-CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+CINEMAX,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 緯來育樂,rtmp://119.81.124.89/sat/tv701
-緯來體育,http://60.251.33.252:18509/.m3u8
-ELEVEN 1,ELEVEN 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+緯來體育,rtmp://119.81.124.89/sat/tv721
+ELEVEN 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 momo綜合台,rtmp://119.81.124.89/sat/tv761
 博斯運動I,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
