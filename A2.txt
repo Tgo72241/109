@@ -152,7 +152,7 @@ BBC Earth,https://epg.pw/stream/7a9ff50c3569cbab5fc2d35ee15d3815a98e1449b0d9300e
 國家地理,https://epg.pw/stream/d2a711a7c217fbc3af105a6289fc201be81146dacabdae0cec6862339929b98d.m3u8
 國家地理野生,https://epg.pw/stream/61711015545fc4dbbd2c7300459a5ed0c429a82752664af8c4805d7690ca540c.m3u8
 Discovery科學,https://epg.pw/stream/18cc301d94e118e5da2b053aacc8ccf3d4479a5b24d777955e3f8add4594a839.m3u8
-華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
+華視新聞資訊,http://47.113.189.55/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=51
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 170,	星衛娛樂台HD
 171,	緯來精采台HD
