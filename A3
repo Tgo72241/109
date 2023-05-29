@@ -129,7 +129,7 @@ WWE,https://epg.pw/stream/cd993da3aead9de18b9b55f5fc2d6e1d6a3fc26b1f686ddcc15fd2
 wwe network,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-民視第一台,https://epg.pw/stream/de5e07171860416f60dd19abe0faf3d9be7c1e714a9099113df545091f081bf9.m3u8
+民視第一台,mitv://198.255.74.87:9906/63de1ea90002373f00338ddf3927edfe
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民視影劇,http://www.336699.live:1935/blockfive/litv-ftv09.stream/playlist.m3u8
 民視旅遊,http://www.336699.live:1935/blockfive/litv-ftv07.stream/playlist.m3u8
@@ -200,7 +200,6 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龍華偶像,https://epg.pw/stream/5bb17423af2bdf0fe201b9c7f86ec1b92081c92a8df002f3c957286e9844e49a.m3u8
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
-釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
