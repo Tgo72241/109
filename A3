@@ -65,7 +65,7 @@ TVBS,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-36151937-36b4-42fa-9991-6f
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
-好萊塢電影,mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 Star Movies Gold,https://epg.pw/stream/ee42cb655c2cdd50e4427068bf8d6a9604de8ef6c150a2d06125a4f890fe4efa.m3u8
 CINEMAX,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 緯來育樂,rtmp://119.81.124.89/sat/tv701
@@ -121,7 +121,7 @@ THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 K-Pop TVPLAY,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-WWE,https://epg.pw/stream/3855a1d6cfad8c680a3abbddc0a26052afa71ea0a554f7df662d1abe0b5c2ccf.ctv
+WWE,http://198.16.100.90:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 IMPACT!,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
