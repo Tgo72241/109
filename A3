@@ -1,4 +1,5 @@
-CinemaWorld,mitv://198.255.74.87:9906/63de1eb900090c610033ce1ff5576326
+
+CinemaWorld,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 澳門蓮花,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
 豬哥會社,https://tvos.ml/youtube/channel/豬哥會社.m3u8
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -84,7 +85,6 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 Z頻道,mitv://198.255.74.87:9906/63de1ec90007d2a300340c4f0afb3379
-Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 八大娛樂台,mitv://198.255.74.87:9906/63de1ebe000bc32e0033e259efe809ca
 非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
@@ -117,7 +117,6 @@ NHK,http://123.51.229.65:18525/.m3u8
 靖天國際,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-靖洋卡通台,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
 THE K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 THE K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -127,33 +126,24 @@ WWE,http://198.16.100.90:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=
 IMPACT!,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-民視綜藝,http://sc2022.stream-link.org/list.php?id=t020
 民視第一台,mitv://198.255.74.87:9906/63de1ea90002373f00338ddf3927edfe
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民視影劇,http://www.336699.live:1935/blockfive/litv-ftv09.stream/playlist.m3u8
-民視旅遊,http://sc2022.stream-link.org/list.php?id=t022
-中視菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台視新聞,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-高點綜合,mitv://generationnexxxt.com:19806/d05d3a06c9ec4c4fb9bdb0f9e09127bf
-Dreamworks,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
 History,mitv://198.255.74.87:9906/63de1eb3000afe630033b72fc9041c07
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 Boomerang,mitv://198.255.74.87:9906/63de1eb30003d9c50033b55b41eb50be
 Sky Sports F1,https://epg.pw/stream/f4f00afc70097dbdf12124cd1ac2ebce0ede2a94ba7c5e8e52b4dd7b7efdf31d.ctv
-Discovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+Discovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 BBC Lifestyle,mitv://198.255.74.87:9906/63de1eb9000bfc490033cee07e02a582
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 國家地理,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-Discovery科學,https://epg.pw/stream/18cc301d94e118e5da2b053aacc8ccf3d4479a5b24d777955e3f8add4594a839.m3u8
 華視新聞資訊,https://epg.pw/stream/2cf1f92cc28bd10ced12cef4cbf75614ddfbcb0bc826db9a9d646f1c15e62748.ctv
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Trans Vision,mitv://198.255.74.87:9906/63de1ec3000879270033f5091f058f42
 三立戲劇台,https://epg.pw/stream/3742c48e97a41eb6160d1644bd37272812d22fea3349ef1cb1041d3e809f5a6b.m3u8
-Nick Jr.,mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1
-尼克兒童頻道,mitv://generationnexxxt.com:19806/73d77b0470724ad4a8dadc3854881cda
 LIVE三立,http://awei.beimua.com/iptv.php?id=48
 三立iNEWS,mitv://198.255.74.87:9906/6372e4ce000d762b3f3268f9740ac7f3
 三立inews+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -175,10 +165,8 @@ HBO原創鉅獻,https://epg.pw/stream/02a3b885fbba006403a81300cbdadc1bb04012edfc
 HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 星衛電影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-歐洲體育,mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45
 EUROSPORT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
 EUROSPORT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
-SPOTV,mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
 SPOTV 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
 博斯高球I,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球II,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
@@ -195,10 +183,10 @@ DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 Universe tv,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華戲劇,http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-龍華日韓,http://www.336699.live:1935/blockfour/litv-longturn11.stream/chunklist_w79659272.m3u8
 龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龍華偶像,http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
