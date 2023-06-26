@@ -58,7 +58,7 @@ TVBS,mitv://198.255.74.87:9906/6372e4b40004cc1a3f320131c403702f
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-衛視電影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
+衛視電影台,mitv://198.255.74.87:9906/63de1ebe0005b3260033e0ccb8df6973
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代,mitv://198.255.74.87:9906/63de1ebe0006be5a0033e110cc99cf6f
