@@ -58,7 +58,7 @@ TVBS,mitv://198.255.74.87:9906/6372e4b40004cc1a3f320131c403702f
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-衛視電影台,mitv://198.255.74.87:9906/63de1ebe0005b3260033e0ccb8df6973
+衛視電影台,https://dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&timestamp=1686277857&rand=vtNgqwU4TR&uuid=9b647b3816b2a66a&from=web&sign=c114719fd45510664b98196ffb539bd8
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 龍祥時代,mitv://198.255.74.87:9906/63de1ebe0006be5a0033e110cc99cf6f
@@ -144,8 +144,8 @@ BBC Lifestyle,mitv://198.255.74.87:9906/63de1eb9000bfc490033cee07e02a582
 國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 華視新聞資訊,https://epg.pw/stream/2cf1f92cc28bd10ced12cef4cbf75614ddfbcb0bc826db9a9d646f1c15e62748.ctv
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-Trans Vision,mitv://198.255.74.87:9906/63de1ec3000879270033f5091f058f42
-三立戲劇台,https://epg.pw/stream/3742c48e97a41eb6160d1644bd37272812d22fea3349ef1cb1041d3e809f5a6b.m3u8
+三立綜合台,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+三立戲劇台,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 LIVE三立,http://awei.beimua.com/iptv.php?id=48
 三立iNEWS,mitv://198.255.74.87:9906/6372e4ce000d762b3f3268f9740ac7f3
 三立inews+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
