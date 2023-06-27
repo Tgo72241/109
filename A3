@@ -125,10 +125,11 @@ WWE,http://198.16.100.90:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=
 IMPACT!,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-民視第一台,mitv://198.255.74.87:9906/63de1ea90002373f00338ddf3927edfe
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 台視新聞,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
 History,mitv://198.255.74.87:9906/63de1eb3000afe630033b72fc9041c07
