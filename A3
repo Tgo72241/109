@@ -83,6 +83,7 @@ Animax,http://61.221.81.93:8078/hls/32/80/animax.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Z頻道,mitv://198.255.74.87:9906/63de1ec90007d2a300340c4f0afb3379
 八大娛樂台,mitv://198.255.74.87:9906/63de1ebe000bc32e0033e259efe809ca
 非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
@@ -144,7 +145,6 @@ BBC Lifestyle,mitv://198.255.74.87:9906/63de1eb9000bfc490033cee07e02a582
 國家地理,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 華視新聞資訊,https://epg.pw/stream/2cf1f92cc28bd10ced12cef4cbf75614ddfbcb0bc826db9a9d646f1c15e62748.ctv
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 三立綜合台,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 三立戲劇台,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 LIVE三立,http://awei.beimua.com/iptv.php?id=48
