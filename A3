@@ -148,7 +148,7 @@ BBC Lifestyle,mitv://198.255.74.87:9906/63de1eb9000bfc490033cee07e02a582
 三立綜合台,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 三立戲劇台,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 LIVE三立,http://awei.beimua.com/iptv.php?id=48
-三立iNEWS,mitv://198.255.74.87:9906/6372e4ce000d762b3f3268f9740ac7f3
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立inews+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
