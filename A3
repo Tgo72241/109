@@ -20,11 +20,11 @@ TLC旅遊生活,mitv://198.255.74.87:9906/63de1eb90006246e0033cd61dccd956b
 動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 CN卡通頻道,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 尼克兒童頻道,mitv://198.255.74.87:9906/63de1ed800088003003447131c3a9acc
-Nick Jr,mitv://198.255.74.87:9906/63de1eb2000e16180033b4119e1346aa
+Nick Jr.,mitv://198.255.74.87:9906/63de1eb2000e16180033b4119e1346aa
 momo親子台,mitv://198.255.74.87:9906/63de1eb30001e07b0033b4d9bd4f4446
 東森幼幼台,mitv://198.255.74.87:9906/63de1eb300012e6d0033b4acac22af58
 緯來綜合,http://123.51.229.65:18540/.m3u8
-八大第一台,http://60.251.33.252:18539/.m3u8
+八大第一台,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
 八大綜合台,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 三立台灣台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
