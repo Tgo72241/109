@@ -166,7 +166,7 @@ HBO HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&
 HBO強檔鉅獻,http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 HBO原創鉅獻,https://epg.pw/stream/02a3b885fbba006403a81300cbdadc1bb04012edfc2d4b82615f0b1c29748422.m3u8
 HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-星衛電影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+星衛電影台,http://103.112.191.9:880/LAOSAT1082.m3u8
 美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 EUROSPORT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
 EUROSPORT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
