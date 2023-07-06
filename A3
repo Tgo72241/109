@@ -1,4 +1,4 @@
-CinemaWorld,mitv://198.255.74.87:9906/63de1eb900090c610033ce1ff5576326
+亞洲美食頻道,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
 豬哥會社,https://tvos.ml/youtube/channel/豬哥會社.m3u8
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 CNN,mitv://198.255.74.87:9906/63de1ec8000e383f00340a0aa707308a
@@ -49,8 +49,8 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 壹新聞,mitv://198.255.74.87:9906/641075040004a82756a58e50c945fc31
 年代新聞,mitv://198.255.74.87:9906/63de1eae0003928b0033a1c063cd6578
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-中天新聞,http://xztv.hk3.20212021.ml.cdn.cloudflare.net/xztv.php?id=9ece40f1-712e-43c8-9639-018c38d088ba
-民視新聞台,http://123.51.230.108:18663/.m3u8
+中天新聞,https://www.5209.eu.org/live?rid=oIgbl7t0S_w
+民視新聞台,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 三立新聞,mitv://198.255.74.87:9906/641075040005418256a58e77af985ba8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
@@ -61,7 +61,7 @@ TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19
 衛視電影台,https://dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&timestamp=1686277857&rand=vtNgqwU4TR&uuid=9b647b3816b2a66a&from=web&sign=c114719fd45510664b98196ffb539bd8
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-龍祥時代,mitv://198.255.74.87:9906/63de1ebe0006be5a0033e110cc99cf6f
+龍祥時代,http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -139,12 +139,13 @@ History,mitv://198.255.74.87:9906/63de1eb3000afe630033b72fc9041c07
 Boomerang,mitv://198.255.74.87:9906/63de1eb30003d9c50033b55b41eb50be
 Sky Sports F1,https://epg.pw/stream/f4f00afc70097dbdf12124cd1ac2ebce0ede2a94ba7c5e8e52b4dd7b7efdf31d.ctv
 Discovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+Discovery科學,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MA4A9062409890624098&ct=19254&tsum=a08aaae68298f6df5540cb41f9d7fdd5
 BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 BBC Lifestyle,mitv://198.255.74.87:9906/63de1eb9000bfc490033cee07e02a582
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 國家地理,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-華視新聞資訊,https://epg.pw/stream/2cf1f92cc28bd10ced12cef4cbf75614ddfbcb0bc826db9a9d646f1c15e62748.ctv
+華視新聞資訊,http://139.180.210.242:8500/live.m3u8?c=7
 三立綜合台,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 三立戲劇台,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 LIVE三立,http://awei.beimua.com/iptv.php?id=48
