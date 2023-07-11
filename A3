@@ -72,6 +72,7 @@ CINEMAX,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 緯來體育,rtmp://119.81.124.89/sat/tv721
 ELEVEN 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELEVEN+,rtmp://9sv2.mine.nu/sat/md011
 momo綜合台,rtmp://119.81.124.89/sat/tv761
 tvN,mitv://198.255.74.87:9906/63de1ed8000f0ad8003448c0adedfabb
 緯來日本,rtmp://119.81.124.89/sat/tv771
@@ -92,6 +93,7 @@ Z頻道,mitv://198.255.74.87:9906/63de1ec90007d2a300340c4f0afb3379
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
 ELTA體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
 ELTA體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+ELTA體育3台,rtmp://9sv2.mine.nu/sat/md051
 儒釋道經,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 生命電視台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
