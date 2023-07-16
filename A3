@@ -72,7 +72,7 @@ CINEMAX,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 緯來體育,rtmp://119.81.124.89/sat/tv721
 ELEVEN 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN+,rtmp://9sv2.mine.nu/sat/md011
+ELEVEN +,rtmp://119.81.124.89/sat/md031
 momo綜合台,rtmp://119.81.124.89/sat/tv761
 tvN,mitv://198.255.74.87:9906/63de1ed8000f0ad8003448c0adedfabb
 緯來日本,rtmp://119.81.124.89/sat/tv771
@@ -128,6 +128,7 @@ AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 WWE,http://198.16.100.90:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 IMPACT!,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 日-女子摔跤,https://epg.112114.xyz/douyu/425809
+極限運動,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
@@ -194,6 +195,7 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 台灣地震監視,http://139.180.210.242/php/youtube.php?id=Owke6Quk7T0
+四海釣鱼,http://tv.ye23.win/iptv2025ok@gmail.com/2211af/ws.php?id=shdy
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
