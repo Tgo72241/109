@@ -24,8 +24,8 @@ Nick Jr.,mitv://198.255.74.87:9906/63de1eb2000e16180033b4119e1346aa
 momo親子台,mitv://198.255.74.87:9906/63de1eb30001e07b0033b4d9bd4f4446
 東森幼幼台,mitv://198.255.74.87:9906/63de1eb300012e6d0033b4acac22af58
 緯來綜合,http://123.51.229.65:18540/.m3u8
-八大第一台,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
-八大綜合台,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大第一台,https://epg.pw/stream/f783c37a015ff2dc941cde0cb0239b6093cb29d00b78d1c5846c6ecce1554822.m3u8
+八大綜合台,https://epg.pw/stream/1c56f1de332b6a66a5d4a5b96a45b48df3403811bd49a54c247ac711f1175d5b.m3u8
 三立台灣台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 衛視中文台,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
