@@ -73,7 +73,7 @@ CINEMAX,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
 ELEVEN 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN +,rtmp://119.81.124.89/sat/md031
-momo綜合台,rtmp://119.81.124.89/sat/tv761
+momotv,rtmp://9sv2.mine.nu/sat/tv761
 tvN,mitv://198.255.74.87:9906/63de1ed8000f0ad8003448c0adedfabb
 緯來日本,rtmp://119.81.124.89/sat/tv771
 國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
