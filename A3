@@ -25,7 +25,7 @@ momo親子台,mitv://198.255.74.87:9906/63de1eb30001e07b0033b4d9bd4f4446
 東森幼幼台,mitv://198.255.74.87:9906/63de1eb300012e6d0033b4acac22af58
 緯來綜合,http://123.51.229.65:18540/.m3u8
 八大第一台,https://epg.pw/stream/f783c37a015ff2dc941cde0cb0239b6093cb29d00b78d1c5846c6ecce1554822.m3u8
-八大綜合台,https://epg.pw/stream/1c56f1de332b6a66a5d4a5b96a45b48df3403811bd49a54c247ac711f1175d5b.m3u8
+八大綜合台,http://www.ubvip1688.com/ublive/7280b72522d8037d.m3u8
 三立台灣台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 衛視中文台,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
@@ -113,6 +113,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+TVBS精采台,http://www.ubvip1688.com/ublive/ef3d6ceb0314bed6.m3u8
 靖天歡樂,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 靖天映畫,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
 靖天育樂,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
@@ -132,7 +133,7 @@ IMPACT!,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視綜藝,http://www.ubvip1688.com/ublive/9f75fe5d1fda1dca.m3u8
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
@@ -158,11 +159,12 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 雲林新聞網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 南投新聞網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-亞洲旅遊台,mitv://198.255.74.87:9906/63de1eb9000de7730033cf5d7f4461bd
+亞洲旅遊台,http://www.ubvip1688.com/ublive/2da47760d4885224.m3u8
 HITS,mitv://198.255.74.87:9906/63de1eb9000725e30033cda36bbf134d
 周星星,http://mmitv.top/pltv/huya.php?id=11342412
 HGTV家園頻道,mitv://198.255.74.87:9906/63e4a6ab0006ac3f00936e1ba35cabe5
 DMAX,https://epg.pw/stream/15984a9299e309c5b34d8209044b3b21b1020fef9b30c1df025055c4198be64b.ctv
+影迷數位電影台,http://www.ubvip1688.com/ublive/5eca7f14ca431b29.m3u8
 影迷數位紀實台,http://pull-l3-cny.douyincdn.com/third/stream-6ea2b038f2ce633a65f0450895f6679e.m3u8
 CatchPlay電影台,mitv://198.255.74.87:9906/63de1eb9000a17920033ce64264e0647
 amc最愛電影,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
