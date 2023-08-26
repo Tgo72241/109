@@ -14,27 +14,27 @@ Ci罪案偵緝,mitv://198.255.74.87:9906/63de1eb9000820a80033cde33f24d950
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 原住民族電視台,mitv://198.255.74.87:9906/63de1ec90006cb1e00340c0bc3cb2ccd
 客家電視台,mitv://198.255.74.87:9906/63de1ec90005bec200340bc77bd49340
-國家地理台灣,http://61.221.81.93:8078/hls/12/80/ngc.m3u8
+國家地理台灣,http://220.135.124.158:8088/live/18_h265.ts
 Discovery,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-TLC旅遊生活,mitv://198.255.74.87:9906/63de1eb90006246e0033cd61dccd956b
+TLC旅遊生活,http://220.135.124.158:8088/live/21_h265.ts
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 CN卡通頻道,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 尼克兒童頻道,mitv://198.255.74.87:9906/63de1ed800088003003447131c3a9acc
 Nick Jr.,mitv://198.255.74.87:9906/63de1eb2000e16180033b4119e1346aa
 momo親子台,mitv://198.255.74.87:9906/63de1eb30001e07b0033b4d9bd4f4446
-東森幼幼台,mitv://198.255.74.87:9906/63de1eb300012e6d0033b4acac22af58
-緯來綜合,http://123.51.229.65:18540/.m3u8
-八大第一台,https://epg.pw/stream/f783c37a015ff2dc941cde0cb0239b6093cb29d00b78d1c5846c6ecce1554822.m3u8
-八大綜合台,http://www.ubvip1688.com/ublive/7280b72522d8037d.m3u8
+東森幼幼台,http://220.135.124.158:8088/live/25_h265.ts
+緯來綜合,http://220.135.124.158:8088/live/26_h265.ts
+八大第一台,http://220.135.124.158:8088/live/27_h265.ts
+八大綜合台,http://220.135.124.158:8088/live/28_h265.ts
 三立台灣台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-衛視中文台,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+衛視中文台,http://220.135.124.158:8088/live/31_h265.ts
 東森綜合,http://220.134.196.147:9553/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
 東森超視,rtmp://9sv2.mine.nu/sat/tv331
 東森購物2,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsgw2
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-東風衛視,http://123.51.229.65:18560/.m3u8
+東風衛視,http://220.135.124.158:8088/live/37_h265.ts
 年代MUCH,http://61.221.81.93:8078/hls/27/80/much.m3u8
 中天娛樂,http://162.19.247.76:22222/live/ztyl/index.m3u8
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
@@ -46,7 +46,7 @@ JET綜合,mitv://198.255.74.87:9906/63de1ed80007794e003446d0e72c88fa
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物1,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsgw1
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-壹新聞,mitv://198.255.74.87:9906/641075040004a82756a58e50c945fc31
+壹新聞,http://220.135.124.158:8088/live/23_h265.ts
 年代新聞,https://epg.pw/stream/978e3bcdc0799e70f3ac06bb66c0f875684f9b97e8010484ec8daadb0aced9c5.m3u8
 東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 中天新聞,https://www.5209.eu.org/live?rid=oIgbl7t0S_w
@@ -87,7 +87,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Z頻道,mitv://198.255.74.87:9906/63de1ec90007d2a300340c4f0afb3379
 八大娛樂台,mitv://198.255.74.87:9906/63de1ebe000bc32e0033e259efe809ca
-非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
+非凡商業,http://220.135.124.158:8088/live/24_h265.ts
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
