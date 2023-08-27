@@ -148,7 +148,7 @@ BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D142273871
 BBC Lifestyle,mitv://198.255.74.87:9906/63de1eb9000bfc490033cee07e02a582
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 國家地理,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-國家地理野生,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
 華視新聞資訊,http://139.180.210.242:8500/live.m3u8?c=7
 三立綜合台,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 三立戲劇台,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
@@ -181,7 +181,7 @@ spotv,https://epg.pw/stream/23b3db658dd114a296f0b469fa763f3f46e40bebb277bb204e85
 博斯高球I,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯高球II,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
 博斯運動I,mitv://198.255.74.87:9906/63de1eae0005955d0033a2443d4f12da
 博斯運動II,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 博斯無限,mitv://198.255.74.87:9906/63de1ed8000d02290034483b75fd9bc8
