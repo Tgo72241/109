@@ -63,7 +63,7 @@ TVBS,http://220.135.124.158:8088/live/56_h265.ts
 緯來電影,http://220.135.124.158:8088/live/63_h265.ts
 龍祥時代,http://120.84.96.115:808/hls/35/index.m3u8
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-東森洋片,http://120.84.96.115:808/hls/33/index.m3u8
+東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 AXN,http://220.135.124.158:8088/live/67_h265.ts
 好萊塢電影,http://220.135.124.158:8088/live/68_h265.ts
 Star Movies Gold,http://220.135.124.158:8088/live/69_h265.ts
