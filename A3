@@ -7,7 +7,7 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,https://fsv4.yj011.net/sat/tv091.flv
-公視新聞,https://epg.pw/stream/65783892bddc6453ebe5df3acd85fc9b89009a2908abae6d5eb85f4d9153a814.ctv
+公視戲劇,http://8.210.88.135/444/4g42.php?p=3
 華視,https://fsv4.yj011.net/sat/tv111.flv
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 Ci罪案偵緝,mitv://198.255.74.87:9906/63de1eb9000820a80033cde33f24d950
@@ -114,6 +114,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 TVBS精采台,http://www.ubvip1688.com/ublive/ef3d6ceb0314bed6.m3u8
+八大精彩台,http://8.210.88.135/444/4g34.php?p=3
 靖天歡樂,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 靖天映畫,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
 靖天育樂,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
@@ -188,6 +189,7 @@ spotv,https://epg.pw/stream/23b3db658dd114a296f0b469fa763f3f46e40bebb277bb204e85
 博斯無限,mitv://198.255.74.87:9906/63de1ed8000d02290034483b75fd9bc8
 好消息2,http://50.7.238.114:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
 幼幼唱遊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 佩佩豬,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 漫步日本,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
@@ -203,6 +205,7 @@ J Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccod
 J Sports 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 CTPAHA FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+采昌,http://8.210.88.135/444/4g49.php?p=3
 
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
