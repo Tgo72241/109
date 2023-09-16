@@ -12,7 +12,7 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 Ci罪案偵緝,mitv://198.255.74.87:9906/63de1eb9000820a80033cde33f24d950
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-原住民族電視台,mitv://198.255.74.87:9906/63de1ec90006cb1e00340c0bc3cb2ccd
+原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 客家電視台,mitv://198.255.74.87:9906/63de1ec90005bec200340bc77bd49340
 國家地理台灣,http://8.217.203.198/668899/58324568.php?id=live1003
 Discovery,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
@@ -82,7 +82,7 @@ ELTA綜合,mitv://198.255.74.87:9906/63de1ec3000db8760033f6614edc53f5
 Animax,http://61.221.81.93:8078/hls/32/80/animax.m3u8
 台灣歌謠,http://59.120.149.80/0.ts
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞台灣台,https://epg.pw/stream/c933155bd337d436bbd6ac9a3b6a8e50a14cb2153b6788a473fc6cf6bbb51c8b.ctv
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Z頻道,mitv://198.255.74.87:9906/63de1ec90007d2a300340c4f0afb3379
@@ -206,7 +206,7 @@ TAIWAN+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龍華偶像,http://8.217.203.198/668899/58324568.php?id=live1235
 龍華日韓,http://8.217.203.198/668899/58324568.php?id=live1010
-龍華卡通,http://8.217.203.198/668899/58324568.php?id=custom29
+EYETV旅遊,http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 Channel[V],http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 J Sports 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J Sports 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
