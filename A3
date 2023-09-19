@@ -2,7 +2,7 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-天才冲冲冲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 民視,rtmp://9sv2.mine.nu/sat/tv051
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
@@ -16,7 +16,7 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 原住民族電視台,mitv://generationnexxxt.com:19806/455dfba7fd454c77a88a1794febe2164
 客家電視台,mitv://generationnexxxt.com:19806/df2f5036b8c147b5b19a37c6f93d6ab6
 國家地理台灣,http://8.217.203.198/668899/58324568.php?id=live1003
-Discovery,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 TLC旅遊生活,mitv://generationnexxxt.com:19806/dbe35fc0a80f460292e8601a8fba02ad
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 CN卡通頻道,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
@@ -62,7 +62,7 @@ TVBS,http://8.210.88.135/444/4g73.php?p=3
 緯來電影,http://8.217.203.198/668899/58324568.php?id=live1183
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-東森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 Star Movies Gold,http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1032
@@ -169,7 +169,7 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 HITS,mitv://198.255.74.87:9906/63de1eb9000725e30033cda36bbf134d
 周星星,http://mmitv.top/pltv/huya.php?id=11342412
 HGTV家園頻道,mitv://198.255.74.87:9906/63e4a6ab0006ac3f00936e1ba35cabe5
-DMAX,https://epg.pw/stream/15984a9299e309c5b34d8209044b3b21b1020fef9b30c1df025055c4198be64b.ctv
+DMAX,mitv://generationnexxxt.com:19806/eeb4cfd7655842648684167473d5233d
 影迷數位電影台,http://8.210.88.135/444/4g11.php?p=3
 影迷數位紀實台,http://8.210.88.135/444/4g15.php?p=3
 達文西頻道,http://8.210.88.135/444/4g18.php?p=3
