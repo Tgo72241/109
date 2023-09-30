@@ -50,9 +50,9 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-三立新聞,http://8.217.203.198/668899/58324568.php?id=live1016
-TVBS新聞台,http://8.210.88.135/444/4g72.php?p=3
-TVBS,http://8.210.88.135/444/4g73.php?p=3
+三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
