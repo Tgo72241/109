@@ -52,7 +52,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS,mitv://generationnexxxt.com:19806/37fbb2509ff3485785203592ab7f5cb5
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
