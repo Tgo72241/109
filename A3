@@ -8,69 +8,69 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-霹靂台灣台,mitv://generationnexxxt.com:19806/2687cf7da8994e5f93a8bee20a4abc13
+霹靂台灣台,mitv://generationnexxxt.com:19806/9c5add36f04b4036beaded5a83ef5222
 公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
 華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-原住民族電視台,mitv://generationnexxxt.com:19806/d685ed44187143ebadee534520daa115
-客家電視台,mitv://generationnexxxt.com:19806/3b93034baf7f4926a6b008efff3fa955
+原住民族電視台,mitv://generationnexxxt.com:19806/110861fa7b494456849a243e71b3e911
+客家電視台,mitv://generationnexxxt.com:19806/9e822bde22cc47c698d28d34b9019848
 國家地理台灣,http://8.217.203.198/668899/58324568.php?id=live1003
 Discovery,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-TLC旅遊生活,mitv://generationnexxxt.com:19806/5cd55e186a7746829eeabea8e5ec3224
+TLC旅遊生活,mitv://generationnexxxt.com:19806/92064c4d594e4f4ca0f589eb255e3564
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 CN卡通頻道,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
-尼克兒童頻道,mitv://generationnexxxt.com:19806/b48a34fc82004294bd2e2ff7aad8e0ec
-momo親子台,mitv://generationnexxxt.com:19806/9a91a16349364cb5abd3a45df5213ff6
-東森幼幼台,mitv://generationnexxxt.com:19806/422ea6aed9cc455c9dec856de44c4679
-緯來綜合,mitv://generationnexxxt.com:19806/186933e13d50488ab9b7131a090e9f8b
+尼克兒童頻道,mitv://generationnexxxt.com:19806/7086840255094a1f997554d8cd0fad2a
+momo親子台,mitv://generationnexxxt.com:19806/b54d20c9e2bd43e1accde9258301fb46
+東森幼幼台,mitv://generationnexxxt.com:19806/6c6368cadf2d449dbde25bdaf3c17db4
+緯來綜合,mitv://generationnexxxt.com:19806/4b009a19acaa47d09f367e182f53febf
 八大第一台,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-八大綜合台,mitv://generationnexxxt.com:19806/7683bc23296d4594b6cb8b133279e84a
+八大綜合台,mitv://generationnexxxt.com:19806/6f0f7d910774415fb5dde224df88d916
 三立台灣台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-衛視中文台,mitv://generationnexxxt.com:19806/8bb0a628389b4ce8898365fed9d44ad8
+衛視中文台,mitv://generationnexxxt.com:19806/2f95f4e77dc94bc9ae9b2d91fe685379
 東森綜合,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 東森超視,rtmp://9sv2.mine.nu/sat/tv331
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 東風衛視,http://8.217.203.198/668899/58324568.php?id=live1195
 年代MUCH,http://8.217.203.198/668899/58324568.php?id=live1189
-中天娛樂,mitv://generationnexxxt.com:19806/4e757eb588a14a76aa0ce1127868831f
+中天娛樂,mitv://generationnexxxt.com:19806/9ae850b237ca4ca98faaf950c8a0b7d6
 東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
-八大戲劇台,mitv://generationnexxxt.com:19806/4559f2d8c8c94b7db8f6e621ee156cb4
+八大戲劇台,mitv://generationnexxxt.com:19806/65b5e7a4f45e4d35958974c3c273bd2a
 TVBS歡樂台,rtmp://9sv2.mine.nu/sat/tv421
-緯來戲劇,mitv://generationnexxxt.com:19806/684a18a0fe9543c4b5e2f80161a6140e
+緯來戲劇,mitv://generationnexxxt.com:19806/9c106519485a404e9fdb7e0bf1e1a25c
 ELTA影劇,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 JET綜合,http://220.135.124.158:8088/live/45_h265.ts
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物1,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsgw1
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-壹新聞,mitv://generationnexxxt.com:19806/5291fb0eeedb4cd4b2555e2196c56874
+壹新聞,mitv://generationnexxxt.com:19806/ef1728761827402db3c1c8120709cfa8
 年代新聞,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-東森新聞,mitv://generationnexxxt.com:19806/6d283ea40817411b9cca82d0ffad8fe7
+東森新聞,mitv://generationnexxxt.com:19806/447e7cf1f64e42ee81fff1d778f8fccf
 中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS,mitv://generationnexxxt.com:19806/37fbb2509ff3485785203592ab7f5cb5
+TVBS,mitv://generationnexxxt.com:19806/5647269d686342da96ad43a414d90ace
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-衛視電影台,mitv://generationnexxxt.com:19806/147499c7793f4fa6a48b14d287b72fcc
+衛視電影台,mitv://generationnexxxt.com:19806/e562b0b982984d2aac68501611e7d1e0
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-緯來電影,mitv://generationnexxxt.com:19806/4ea1be9dfb81421e849d74580e2abf05
+緯來電影,mitv://generationnexxxt.com:19806/3582f3dd9c57458488436eda5c9ed919
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 HBO,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/hbohd_twn/playlist.m3u8
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 AXN,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-Star Movies Gold,http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1032
-CINEMAX,mitv://generationnexxxt.com:19806/9d557910141f439b8ff5dc1d3fc17a60
-緯來育樂,mitv://generationnexxxt.com:19806/49960807d5944f738324a9b19bb12ff6
+Star Movies,mitv://generationnexxxt.com:19806/35099ff81258445d8a330421c70ac315
+CINEMAX,mitv://generationnexxxt.com:19806/5601e1581bee4c599ca78aedc823236f
+緯來育樂,mitv://generationnexxxt.com:19806/0e79fe5cd59e4583a06ec5c1aff4b85c
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
-ELEVEN 1,mitv://generationnexxxt.com:19806/a73c49e984ae42529da0860704f1ea55
-ELEVEN 2,mitv://generationnexxxt.com:19806/bba09f3eb6ea42d2b9c261f172e0127b
+ELEVEN 1,mitv://generationnexxxt.com:19806/615c475302e04ca7ae9e37c28757c24c
+ELEVEN 2,mitv://generationnexxxt.com:19806/3ee182e423ec4cb08368acc5597f7098
 momotv,rtmp://9sv2.mine.nu/sat/tv761
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 緯來日本,https://fsv4.yj011.net/sat/tv771.flv
@@ -83,9 +83,9 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞台灣台,https://epg.pw/stream/c933155bd337d436bbd6ac9a3b6a8e50a14cb2153b6788a473fc6cf6bbb51c8b.ctv
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-Z頻道,mitv://generationnexxxt.com:19806/5e1257e073f54c4b8af9312ae82dc11d
+Z頻道,mitv://generationnexxxt.com:19806/7c73e369d7ee4fde83730dedb431d7fc
 八大娛樂台,mitv://198.255.74.87:9906/63de1ebe000bc32e0033e259efe809ca
-非凡商業,mitv://generationnexxxt.com:19806/a33b48f445d54c3dafb9dfcac35ab513
+非凡商業,mitv://generationnexxxt.com:19806/b33629ca65d24685a7a8eda09f505593
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
 世新綜合,http://61.58.60.230:9319/live/49.m3u8
@@ -111,7 +111,7 @@ NHK,http://123.51.229.65:18525/.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 智林體育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-TVBS精采台,mitv://generationnexxxt.com:19806/b9520269faab4caa8caa030d81f9f22e
+TVBS精采台,mitv://generationnexxxt.com:19806/3ded9acee71749fb9e9a96d2a774d9b1
 八大精彩台,http://8.210.88.135/444/4g34.php?p=3
 靖天歡樂,http://8.210.88.135/444/4g54.php?p=3
 靖天映畫,http://8.210.88.135/444/4g55.php?p=3
@@ -136,21 +136,21 @@ IMPACT!,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 極限運動,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣台,mitv://generationnexxxt.com:19806/69ffc756b1914a0c9c100980d759aa02
+民視台灣台,mitv://generationnexxxt.com:19806/2afeed0fa71d4397be86330577599a7d
 民視綜藝,http://8.210.88.135/444/4g04.php?p=3
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
 中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中視經典台,mitv://generationnexxxt.com:19806/efa3285ba37b4a3199bc7c35c712e0ab
+中視經典台,mitv://generationnexxxt.com:19806/2470f92eaaf14809b21a34bd09bad256
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 History,mitv://198.255.74.87:9906/63de1eb3000afe630033b72fc9041c07
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 Boomerang,mitv://198.255.74.87:9906/63de1eb30003d9c50033b55b41eb50be
 Sky Sports F1,https://epg.pw/stream/f4f00afc70097dbdf12124cd1ac2ebce0ede2a94ba7c5e8e52b4dd7b7efdf31d.ctv
 Discovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-Discovery科學,mitv://generationnexxxt.com:19806/40aaddfa285d468aa6606e730efb5520
+Discovery科學,mitv://generationnexxxt.com:19806/464ebb2876e84dac8cbacee428aecdf3
 BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-BBC Lifestyle,mitv://generationnexxxt.com:19806/a90802d41e974080930bf46ce1f4e98c
+BBC Lifestyle,mitv://generationnexxxt.com:19806/7423722b8f844d048e7d130fe7af1126
 新唐人亞太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 國家地理,mitv://generationnexxxt.com:19806/1d153be47cc04f9c8e25bb6721065b29
 國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
