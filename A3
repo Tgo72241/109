@@ -67,7 +67,7 @@ HBO,http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/hbohd_twn/pla
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 Star Movies,P2p://generationnexxxt.com:19806/a3de951546d2443aa76c28d210cd4424
-CINEMAX,P2p://generationnexxxt.com:19806/d8cdc4953d66483ab3c09548823e7d86
+CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 緯來育樂,P2p://generationnexxxt.com:19806/2600e7003a314977a4741a59b7d37f9c
 緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
 ELEVEN 1,P2p://generationnexxxt.com:19806/a66fa4311e7447f6b2c63461ab74af8b
