@@ -46,19 +46,19 @@ JET綜合,http://220.135.124.158:8088/live/45_h265.ts
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 東森購物1,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsgw1
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-壹新聞,P2p://generationnexxxt.com:19806/ad5fc47909654ebb80b232e6fc3f8095
+壹新聞,http://ceshi.huanqiuzhibo.cn/accv.php?id=yinews
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS,P2p://generationnexxxt.com:19806/854ea529aeb0405ab5e1b1622be10d3a
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 東森購物5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-衛視電影台,P2p://generationnexxxt.com:19806/b3007228e5664524a3755f62a739d151
+衛視電影台,http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 緯來電影,P2p://generationnexxxt.com:19806/5fb0111df77543e8aeeb2494df6ee3ee
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
@@ -78,7 +78,7 @@ tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 國興衛視,http://220.135.124.158:8088/live/73_h265.ts
 衛視闔家歡,http://220.135.124.158:8088/live/79_h265.ts
 ELTA綜合,mitv://198.255.74.87:9906/63de1ec3000db8760033f6614edc53f5
-Animax,http://61.221.81.93:8078/hls/32/80/animax.m3u8
+Animax,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 台灣歌謠,http://59.120.149.80/0.ts
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
