@@ -14,8 +14,8 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-原住民族電視台,P2p://generationnexxxt.com:19806/1df776670a9f4ac88ecc7529ef82aa33
-客家電視台,P2p://generationnexxxt.com:19806/b1288d57eb054eeeb7eb5369b7d76568
+原住民族電視台,mitv://generationnexxxt.com:19806/73876344790c47549ec9329b223cfbea
+客家電視台,mitv://generationnexxxt.com:19806/760108148dff4eeb9ca04c0fef5be56f
 國家地理台灣,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 Discovery,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 TLC旅遊生活,P2p://generationnexxxt.com:19806/0d3304abb7714d579eddeffa4906ce22
