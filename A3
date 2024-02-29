@@ -64,7 +64,7 @@ TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=192
 緯來電影,http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-東森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
 好萊塢電影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
 Star Movies Gold,http://gwtv.cnv8.tv:8097/starmoviesgold_twn/playlist.m3u8
