@@ -64,7 +64,7 @@ TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=192
 緯來電影,http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
 龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+東森洋片,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
 好萊塢電影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
 Star Movies Gold,http://gwtv.cnv8.tv:8097/starmoviesgold_twn/playlist.m3u8
@@ -85,7 +85,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞台灣台,https://epg.pw/stream/c933155bd337d436bbd6ac9a3b6a8e50a14cb2153b6788a473fc6cf6bbb51c8b.ctv
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-Z頻道,mitv://generationnexxxt.com:19806/7c73e369d7ee4fde83730dedb431d7fc
+Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
 八大娛樂台,mitv://198.255.74.87:9906/63de1ebe000bc32e0033e259efe809ca
 非凡商業,mitv://generationnexxxt.com:19806/b33629ca65d24685a7a8eda09f505593
 幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
@@ -172,7 +172,7 @@ EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 周星星,https://www.goodiptv.club/huya/11342412
 HGTV家園頻道,mitv://generationnexxxt.com:19806/4f5a9945bd68415ca14e380a310c8ef3
-DMAX,mitv://generationnexxxt.com:19806/6048065464b44bbb81cacb850b219e4b
+DMAX,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
 影迷數位電影台,http://64.31.55.194/shuwei/video.m3u8
 影迷數位紀實台,http://8.210.88.135/444/4g15.php?p=3
 達文西頻道,http://8.210.88.135/444/4g18.php?p=3
