@@ -1,4 +1,5 @@
 🇹🇼台灣🇹🇼,#genre#
+
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -15,20 +16,20 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 原住民族電視台,mitv://generationnexxxt.com:19806/73876344790c47549ec9329b223cfbea
-客家電視台,mitv://generationnexxxt.com:19806/760108148dff4eeb9ca04c0fef5be56f
+客家電視台,https://z88.ubtvfans.com/live/rx3/76/fa5b120431ea76968b2a7363017a2025/index.m3u8
 國家地理台灣,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 Discovery,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 TLC旅遊生活,mitv://generationnexxxt.com:19806/fd2530b6f21847a987e92c4624fc4599
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 CN卡通頻道,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 尼克兒童頻道,P2p://generationnexxxt.com:19806/11531d63518245feb3c872808f9974bd
-momo親子台,P2p://generationnexxxt.com:19806/e796dd69a12d4846931cc9bf832265db
+momo親子台,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 東森幼幼台,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 八大第一台,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大綜合台,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-三立台灣台,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立都會台,http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+三立台灣台,https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
+三立都會台,https://z88.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 衛視中文台,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 東森綜合,http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 東森超視,http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
@@ -38,10 +39,10 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 東風衛視,http://gwtv.cnv8.tv:8097/aziotv_twn/playlist.m3u8
 年代MUCH,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 中天娛樂,P2p://generationnexxxt.com:19806/f6d5997339e44b29bfddee6935515cc9
-東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+東森戲劇,http://162.19.247.76:22222/live/dsxj/index.m3u8
 八大戲劇台,P2p://generationnexxxt.com:19806/d5728c1ba09e4905867bdc644e92ffa3
 TVBS歡樂台,https://i.125011.xyz/sat.php?ip=&id=tv421
-緯來戲劇,P2p://generationnexxxt.com:19806/1a31ec7d43044bdab7daa00f8d3b191d
+緯來戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 ELTA影劇,http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
 JET綜合,http://220.135.124.158:8088/live/45_h265.ts
 東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
@@ -54,7 +55,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 三立新聞,http://125.227.210.55:35238/VideoInput/play.ts
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://125.227.210.55:28993/VideoInput/play.ts
 美好1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
@@ -83,7 +84,7 @@ Animax,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 台灣歌謠,http://59.120.149.80/0.ts
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新聞台灣台,https://epg.pw/stream/c933155bd337d436bbd6ac9a3b6a8e50a14cb2153b6788a473fc6cf6bbb51c8b.ctv
+寰宇新聞台灣台,https://z88.ubtvfans.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
 八大娛樂台,mitv://198.255.74.87:9906/63de1ebe000bc32e0033e259efe809ca
