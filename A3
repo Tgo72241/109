@@ -70,8 +70,8 @@ AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
 好萊塢電影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
 Star Movies Gold,http://gwtv.cnv8.tv:8097/starmoviesgold_twn/playlist.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
-緯來育樂,http://gwtv.cnv8.tv:8097/videolandmax/playlist.m3u8
-緯來體育,https://cloud.yumixiu768.com/tmp/123.m3u8
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
 ELEVEN 1,http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN 2,rtmp://9sv2.mine.nu/sat/tv741
 momotv,rtmp://9sv2.mine.nu/sat/tv761
