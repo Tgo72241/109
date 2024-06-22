@@ -9,7 +9,7 @@ CNN,http://125.227.210.55:8166/VideoInput/play.ts
 台視,rtmp://f13h.mine.nu/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
-霹靂台灣台,https://z88.ubtvfans.com/live/rx1/1339/4548801261b49eea62f971f931ed19a7/index.m3u8
+霹靂台灣台,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
 華視,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 公視,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
 公視台語台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
