@@ -76,7 +76,7 @@ momotv,rtmp://f13h.mine.nu/sat/tv761
 博斯運動I,http://172.233.67.137:5000/4gtv/50
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 國興衛視,https://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
-79	BBC Lifestyle HD
+BBC Lifestyle,https://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
 公視3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
 81	Animax(HD)
 金光布袋戲,http://live.9528.eu.org/4gtv.php?channel=236
@@ -244,7 +244,7 @@ EUROSPORT 2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 博斯高球I,https://z02.ubtvfans.com/live/rx1/377/c8f27fc82a4d290ca635d9099b5d5dd2/index.m3u8
 博斯高球II,https://z02.ubtvfans.com/live/rx1/378/564c0bf55fc935c184f5cec7fb475584/index.m3u8
 246	博斯無限二台
-247	博斯魅力台
+博斯魅力,https://z02.ubtvfans.com/live/rx1/175/bb35c070bb8ce8d1742b24d6f727eac7/index.m3u8
 博斯網球,https://z02.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
 249	博斯運動二台
 250	博斯無限台
