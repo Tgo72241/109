@@ -73,8 +73,7 @@ CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 momotv,rtmp://f13h.mine.nu/sat/tv761
-博斯運動I,http://172.233.67.137:5000/4gtv/50
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
+博斯運動I,https://stream.freetv.fun/c994e303526a527a313addf883d5c5577ffd177a966de4d1da7b30d170f1709a.ctv緯來日本,rtmp://f13h.mine.nu/sat/tv771
 國興衛視,https://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
 BBC Lifestyle,https://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
 公視3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
