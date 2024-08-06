@@ -1,259 +1,53 @@
-
-巴黎奥运会,#genre#
-ELTA奥运1台,https://api.btbt.im/live?id=elta-oly1
-ELTA奥运2台,https://api.btbt.im/live?id=elta-oly2
-ELTA奥运3台,https://api.btbt.im/live?id=elta-oly3
-ELTA奥运4台,https://api.btbt.im/live?id=elta-oly4
-ELTA奥运5台,https://api.btbt.im/live?id=elta-oly5
-ELTA奥运6台,https://api.btbt.im/live?id=elta-oly6
-ELTA奥运7台,https://api.btbt.im/live?id=elta-oly7
-Astro OLY 1,https://api.btbt.im/live?id=astro-oly1
-Astro OLY 2,https://api.btbt.im/live?id=astro-oly2
-Astro OLY 3,https://api.btbt.im/live?id=astro-oly3
-Astro OLY 4,https://api.btbt.im/live?id=astro-oly4
-Astro OLY 5,https://api.btbt.im/live?id=astro-oly5
-MyTVSuper奥运801,https://api.btbt.im/live?id=mytvsuper-oly801
-MyTVSuper奥运802,https://api.btbt.im/live?id=mytvsuper-oly802
-MyTVSuper奥运803,https://api.btbt.im/live?id=mytvsuper-oly803
-MyTVSuper奥运804,https://api.btbt.im/live?id=mytvsuper-oly804
-MyTVSuper奥运805,https://api.btbt.im/live?id=mytvsuper-oly805
-MyTVSuper奥运806,https://api.btbt.im/live?id=mytvsuper-oly806
-MyTVSuper奥运807,https://api.btbt.im/live?id=mytvsuper-oly807
-MyTVSuper奥运808,https://api.btbt.im/live?id=mytvsuper-oly808
-MyTVSuper奥运809,https://api.btbt.im/live?id=mytvsuper-oly809
-MyTVSuper奥运810,https://api.btbt.im/live?id=mytvsuper-oly810
-MyTVSuper奥运811,https://api.btbt.im/live?id=mytvsuper-oly811
-MyTVSuper奥运812,https://api.btbt.im/live?id=mytvsuper-oly812
-MyTVSuper奥运813,https://api.btbt.im/live?id=mytvsuper-oly813
-MyTVSuper奥运814,https://api.btbt.im/live?id=mytvsuper-oly814
-MyTVSuper奥运815,https://api.btbt.im/live?id=mytvsuper-oly815
-MyTVSuper奥运816,https://api.btbt.im/live?id=mytvsuper-oly816
-MyTVSuper奥运817,https://api.btbt.im/live?id=mytvsuper-oly817
-
-Now 爆谷台,https://api.btbt.im/live?id=baogu-movies
-Now 星影台,https://api.btbt.im/live?id=now-baogu-superstars
-
-台湾综合,#genre#
-民视,https://api.btbt.im/live?id=ftv
-民视台湾台,https://api.btbt.im/live?id=ftv-tw
-民视第一台,https://api.btbt.im/live?id=ftv-one
-纬来日本,https://api.btbt.im/live?id=videoland-japan
-纬来综合,https://api.btbt.im/live?id=videoland
-八大综合,https://api.btbt.im/live?id=gtv28
-八大第一,https://api.btbt.im/live?id=gtv27
-TVBS 精采台,https://api.btbt.im/live?id=tvbs-jc
-TVBS 欢乐台,https://api.btbt.im/live?id=tvbs-huanle
-TVBS Asia,https://api.btbt.im/live?id=tvbs-asia
-三立台湾台,https://api.btbt.im/live?id=settv-taiwan
-三立综合台,https://api.btbt.im/live?id=settv-zonghe
-台视,https://api.btbt.im/live?id=ttv
-东森超视,https://api.btbt.im/live?id=ebc-super
-东森综合台,https://api.btbt.im/live?id=ebc-ettv
-中视,https://api.btbt.im/live?id=ctv
-中视菁采台,https://api.btbt.im/live?id=bravo
-中天亚洲,https://api.btbt.im/live?id=cti-asia
-中天综合,https://api.btbt.im/live?id=ctitv36
-华视,https://api.btbt.im/live?id=cts
-LiveABC 互动英语频道,https://api.btbt.im/live?id=liveabc
-好消息,https://api.btbt.im/live?id=goodtv
-KLT-靖天国际台,https://api.btbt.im/live?id=jtgj
-ELTA综合台,https://api.btbt.im/live?id=elta-zonghe
-公视,https://api.btbt.im/live?id=pts
-公视3台,https://api.btbt.im/live?id=pts-3
-公视台语台,https://api.btbt.im/live?id=pts-ty
-靖天综合台,https://api.btbt.im/live?id=jtzh
-靖天日本台,https://api.btbt.im/live?id=jtrb
-客家电视台,https://api.btbt.im/live?id=hakkatv
-大爱一台,https://api.btbt.im/live?id=daai1
-大爱二台,https://api.btbt.im/live?id=daai2
-ARIRANG 阿里郎频道,https://api.btbt.im/live?id=arirang
-台湾新闻财经,#genre#
-中天新闻,https://api.btbt.im/live?id=cti-news
-TVBS 新闻台,https://api.btbt.im/live?id=tvbs-news
-TVBS HD,https://api.btbt.im/live?id=tvbs-hd
-东森新闻,https://api.btbt.im/live?id=ebc-news
-东森财经新闻,https://api.btbt.im/live?id=ebc-finance
-寰宇新闻台,https://api.btbt.im/live?id=global-news
-寰宇财经台,https://api.btbt.im/live?id=global-finance
-寰宇新闻台湾台,https://api.btbt.im/live?id=global-news-tw
-壹新闻 HD,https://api.btbt.im/live?id=nexttv
-三立新闻,https://api.btbt.im/live?id=settv-news
-三立iNews,https://api.btbt.im/live?id=settv-inews
-中视新闻,https://api.btbt.im/live?id=ctv-news
-非凡新闻,https://api.btbt.im/live?id=unique-business-news
-年代新闻,https://api.btbt.im/live?id=era-news
-民视新闻台,https://api.btbt.im/live?id=ftv-news
-台视新闻,https://api.btbt.im/live?id=ttv-news
-镜电视新闻台,https://api.btbt.im/live?id=mnews
-华视新闻,https://api.btbt.im/live?id=cts-news
-半岛国际新闻台,https://api.btbt.im/live?id=aljazeera
-SBN 全球财经台,https://api.btbt.im/live?id=sbn
-靖天资讯台,https://api.btbt.im/live?id=jtzx
-台湾影音娱乐,#genre#
-霹雳台湾台,https://api.btbt.im/live?id=pilitv
-纬来电影台,https://api.btbt.im/live?id=videoland-movie
-纬来戏剧,https://api.btbt.im/live?id=videoland-drama
-TVBS综艺台,https://api.btbt.im/live?id=tvbs-zongyi
-TVBS台剧台,https://api.btbt.im/live?id=tvbs-taiju
-龙祥电影台,https://api.btbt.im/live?id=lstime
-龙华电影台,https://api.btbt.im/live?id=ltv-movies
-龙华戏剧台,https://api.btbt.im/live?id=ltv-xiju
-龙华日韩台,https://api.btbt.im/live?id=ltv-rihan
-东森电影,https://api.btbt.im/live?id=ebc-movie
-东森戏剧,https://api.btbt.im/live?id=ebc-drama
-东森洋片,https://api.btbt.im/live?id=ebc-emovie
-八大精彩台,https://api.btbt.im/live?id=gtv-jct
-八大戏剧,https://api.btbt.im/live?id=gtv-41
-八大娱乐,https://api.btbt.im/live?id=gtv-86
-八大综艺,https://api.btbt.im/live?id=grt
-采昌影剧台,https://api.btbt.im/live?id=caichang
-美亚电影台,https://api.btbt.im/live?id=meiah-movies
-猪哥亮歌厅秀,https://api.btbt.im/live?id=zglgtx
-民视综艺,https://api.btbt.im/live?id=ftv-reality
-民视影剧,https://api.btbt.im/live?id=ftv-drama
-三立都会台,https://api.btbt.im/live?id=settv-city
-三立戏剧台,https://api.btbt.im/live?id=settv-drama
-中视经典台,https://api.btbt.im/live?id=ctv-classic
-中天娱乐,https://api.btbt.im/live?id=cti-yule
-靖洋戏剧台,https://api.btbt.im/live?id=jyxj
-靖天映画,https://api.btbt.im/live?id=jtyh
-靖天电影台,https://api.btbt.im/live?id=jtdy
-靖天戏剧台,https://api.btbt.im/live?id=jtxjt
-韩国娱乐台 KMTV,https://api.btbt.im/live?id=kmtv
-公视戏剧,https://api.btbt.im/live?id=gsxj
-影迷数位纪实台,https://api.btbt.im/live?id=ymswjst
-影迷数字电影台,https://api.btbt.im/live?id=fans-cinema
-视纳华仁纪实频道,https://api.btbt.im/live?id=cnex
-MTV Live HD 频道,https://api.btbt.im/live?id=mtv
-ELTA 娱乐台,https://api.btbt.im/live?id=elta-ylt
-
-tvN Movies,https://api.btbt.im/live?id=tvn-movies
-AXN,https://api.btbt.im/live?id=axn
-
-BBCEarth,https://api.btbt.im/live?id=bbcearth
-
-体育竞技,#genre#
-beIN Sports,https://api.btbt.im/live?id=beinsports
-beIN Sports 2,https://api.btbt.im/live?id=beinsports2
-beIN Sports 3,https://api.btbt.im/live?id=beinsports3
-ELTA 体育-1,https://api.btbt.im/live?id=elta-sport1
-ELTA 体育-2,https://api.btbt.im/live?id=elta-sport2
-ELTA 体育-3,https://api.btbt.im/live?id=elta-sport3
-ELTA体育4台,https://api.btbt.im/live?id=elta-sport4
-博斯网球,https://api.btbt.im/live?id=sportcast-tennis
-博斯运动-1,https://api.btbt.im/live?id=sportcast1
-博斯运动-2,https://api.btbt.im/live?id=sportcast2
-博斯无限,https://api.btbt.im/live?id=sportcast-wx
-博斯高球-1,https://api.btbt.im/live?id=sportcast-golf1
-博斯高球-2,https://api.btbt.im/live?id=sportcast-golf2
-博斯魅力,https://api.btbt.im/live?id=sportcast-meili
-ESPN,https://api.btbt.im/live?id=espn
-ESPN 2,https://api.btbt.im/live?id=espn2
-ESPN 3,https://api.btbt.im/live?id=espn3
-ESPN 4,https://api.btbt.im/live?id=espn4
-myTV SUPER直播足球1台,https://api.btbt.im/live?id=mytv-super-soccer1
-myTV SUPER直播足球2台,https://api.btbt.im/live?id=mytv-super-soccer2
-myTV SUPER直播足球3台,https://api.btbt.im/live?id=mytv-super-soccer3
-myTV SUPER直播足球4台,https://api.btbt.im/live?id=mytv-super-soccer4
-myTV SUPER 18,https://api.btbt.im/live?id=mytvsuper-18
-纬来体育,https://api.btbt.im/live?id=videoland-sport
-NBA,https://api.btbt.im/live?id=nba
-WWE,https://api.btbt.im/live?id=wwe
-DAZN 1,https://api.btbt.im/live?id=eleven-sport1
-DAZN 2,https://api.btbt.im/live?id=eleven-sport2
-Eurosports-1,https://api.btbt.im/live?id=eurosports-1
-SPOTV,https://api.btbt.im/live?id=spotv
-SPOTV-2,https://api.btbt.im/live?id=spotv2
-时尚运动 X,https://api.btbt.im/live?id=ssydx
-GINX Esports TV,https://api.btbt.im/live?id=ginx-esports
-Tech Storm,https://api.btbt.im/live?id=tech-storm
-TRACE Sport Stars,https://api.btbt.im/live?id=trace-sport-stars
-W-Sport,https://api.btbt.im/live?id=w-sport
-PremierSports,https://api.btbt.im/live?id=premiersports
-智林体育台,https://api.btbt.im/live?id=zl-sports
-欧美频道,#genre#
-HBO HD,https://api.btbt.im/live?id=hbo-hd
-HBO Hits HD,https://api.btbt.im/live?id=hbo-hits-hd
-HBO Family HD,https://api.btbt.im/live?id=hbo-family
-HBO Signature HD,https://api.btbt.im/live?id=hbo-signature
-Cinemax,https://api.btbt.im/live?id=cinemax
-CNN International,https://api.btbt.im/live?id=cnn-international
-好莱坞电影,https://api.btbt.im/live?id=hollywood-movie
-ROCK Action,https://api.btbt.im/live?id=rock-action
-ROCK Entertainment,https://api.btbt.im/live?id=rock-entertaiment
-Bloomberg,https://api.btbt.im/live?id=bloomberg
-amc 最爱电影,https://api.btbt.im/live?id=amc-movie
-美国中文电视,https://api.btbt.im/live?id=sinovision
-Lifetime 娱乐频道,https://api.btbt.im/live?id=lifetime
-HLN,https://api.btbt.im/live?id=cnn-hln
-fun 探索娱乐台,https://api.btbt.im/live?id=festival4k
-Euronews,https://api.btbt.im/live?id=euronews
-MyCinema Europe HD,https://api.btbt.im/live?id=mycinema-europe
-VOA 美国之音,https://api.btbt.im/live?id=voa
-DW 德国之声,https://api.btbt.im/live?id=dw
-ABC News,https://api.btbt.im/live?id=abc-news
-BBC World News,https://api.btbt.im/live?id=bbc-world-news
-CNBC,https://api.btbt.im/live?id=cnbc
-
-少儿动画,#genre#
-迪士尼频道,https://api.btbt.im/live?id=disney
-Animax 卡通,https://api.btbt.im/live?id=animax-cartoon
-DreamWorks 梦工厂动画,https://api.btbt.im/live?id=dreamworks
-小尼克频道,https://api.btbt.im/live?id=nick-jr
-尼克儿童频道,https://api.btbt.im/live?id=nickelodeon
-MOMO 亲子台,https://api.btbt.im/live?id=momo-kids
-东森幼幼台,https://api.btbt.im/live?id=ebc-yoyo
-CN卡通,https://api.btbt.im/live?id=cn-cartoon
-靖天卡通台,https://api.btbt.im/live?id=jtkt
-靖天育乐台,https://api.btbt.im/live?id=jtyl
-i-Fun 动漫台,https://api.btbt.im/live?id=i-fun
-ELTV生活英語台,https://api.btbt.im/live?id=eltv
-Boomerang HD,https://api.btbt.im/live?id=boomerang-hd
-靖洋卡通 NiceBingo,https://api.btbt.im/live?id=nice-bingo
-达文西频道,https://api.btbt.im/live?id=da-vinci
-人文旅游自然,#genre#
-探索频道,https://api.btbt.im/live?id=discovery
-探索科学频道,https://api.btbt.im/live?id=discovery-sci
-探索亚洲频道,https://api.btbt.im/live?id=discovery-asia
-DMAX,https://api.btbt.im/live?id=dmax
-History 频道,https://api.btbt.im/live?id=history
-History-2 频道,https://api.btbt.im/live?id=history-2
-Love Nature,https://api.btbt.im/live?id=love-nature
-国家地理 野生频道,https://api.btbt.im/live?id=natgeo-wild
-民视旅游,https://api.btbt.im/live?id=ftv-travel
-美食星球频道,https://api.btbt.im/live?id=food-planet
-EYE 旅游台,https://api.btbt.im/live?id=eye-travel
-ELTA 生活旅游台,https://api.btbt.im/live?id=elta-lifetravel
-车迷TV,https://api.btbt.im/live?id=motorvision
-动物星球频道,https://api.btbt.im/live?id=animal-planet
-TLC 旅游生活頻道,https://api.btbt.im/live?id=tlc
-亚洲旅游台,https://api.btbt.im/live?id=asia-travel
-Asian Food Network,https://api.btbt.im/live?id=asian-food-network
-CI 罪案侦查频道,https://api.btbt.im/live?id=ci
-滚动力 rollor,https://api.btbt.im/live?id=rollor
-LUXE TV Channel,https://api.btbt.im/live?id=luxe-tv
-日韩频道,#genre#
-NHK General,https://api.btbt.im/live?id=nhk-g
-NHK Education,https://api.btbt.im/live?id=nhk-e
-日本电视台,https://api.btbt.im/live?id=nippon-tv
-TBS TV,https://api.btbt.im/live?id=tbs-tv
-富士电视台,https://api.btbt.im/live?id=fujitv
-朝日电视台,https://api.btbt.im/live?id=tv-asahi
-东京电视台,https://api.btbt.im/live?id=tv-tokyo
-JSPORTS 1,https://api.btbt.im/live?id=jsports1
-JSPORTS 2,https://api.btbt.im/live?id=jsports2
-JSPORTS 3,https://api.btbt.im/live?id=jsports3
-JSPORTS 4,https://api.btbt.im/live?id=jsports4
-KBS 1,https://api.btbt.im/live?id=kbs-1
-KBS 2,https://api.btbt.im/live?id=kbs-2
-KBS Drama,https://api.btbt.im/live?id=kbs-drama
-KBS Story,https://api.btbt.im/live?id=kbs-story
-KBS Life,https://api.btbt.im/live?id=kbs-life
-KBS Joy,https://api.btbt.im/live?id=kbs-joy
-KBS Kids,https://api.btbt.im/live?id=kbs-kids
-KBSWorld,https://api.btbt.im/live?id=kbsworld
-KBS NEWS,https://api.btbt.im/live?id=kbs-news
-SBS,https://api.btbt.im/live?id=sbs
-SBS Plus,https://api.btbt.im/live?id=sbs-plus
-SBS funE,https://api.btbt.im/live?id=sbs-fune
-SBS M,https://api.btbt.im/live?id=sbs-m
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+東森綜合,http://220.134.196.147:9553/.m3u8
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+臺視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+鏡新聞,http://37.27.111.214:8080/live/62/hls.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視台灣,http://37.27.111.214:8080/live/5/hls.m3u8
+民視第一,http://37.27.111.214:8080/live/4/hls.m3u8
+民視綜藝,http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+民視影劇,http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+民視,http://37.27.111.214:8080/live/6/hls.m3u8
+三立inews,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+中視,http://37.27.111.214:8080/live/7/hls.m3u8
+華視新聞,http://37.27.111.214:8080/live/8/hls.m3u8
+寰宇財經,http://37.27.111.214:8080/live/65/hls.m3u8
+寰宇台灣,http://37.27.111.214:8080/live/63/hls.m3u8
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+三立綜合,http://37.27.111.214:8080/live/31/hls.m3u8
+中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+中天新聞,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
+龍華日韓,http://37.27.111.214:8080/live/42/hls.m3u8
+龍華戲劇,http://37.27.111.214:8080/live/41/hls.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+靖天電影,http://37.27.111.214:8080/live/18/hls.m3u8
+靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
+靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
+靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
+博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯網球,http://37.27.111.214:8080/live/16/hls.m3u8
+博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
+博斯運動,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
