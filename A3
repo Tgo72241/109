@@ -3,7 +3,7 @@ LoveNature,p3p://173.208.176.178:31809/655fa9280009c6278edfc1176731425f
 紅牛RedBull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 CNN,http://125.227.210.55:8166/VideoInput/play.ts
-民視,http://122.117.71.103:8567/民视闽南.m3u8
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 台視,rtmp://f13h.mine.nu/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
