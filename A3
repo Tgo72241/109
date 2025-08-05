@@ -9,8 +9,10 @@ CNN,http://125.227.210.55:8166/VideoInput/play.ts
 台視,rtmp://f13h.mine.nu/sat/tv071
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
+中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 霹靂台灣台,p3p://173.208.176.178:31809/644507280004aa433edc17562e211a38
 華視,rtmp://f13h.mine.nu/sat/tv111
+華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
 公視,http://211.72.65.236:8505/.m3u8
 公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
 好消息,https://4gtv.mytvsuper.xyz/litv/litv-ftv16
@@ -69,7 +71,7 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森洋片,https://z02.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
 AXN,https://z02.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
 好萊塢電影,https://z02.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
-amc電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+amc電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
@@ -93,7 +95,7 @@ Z頻道,https://z02.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 90	非凡商業台HD
 八大娛樂台,https://z02.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
 EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-視納華仁紀實,http://live.9528.eu.org/4gtv.php?channel=38
+視納華仁紀實,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 采昌,http://live.9528.eu.org/4gtv.php?channel=25
 Channel[V],http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -162,6 +164,9 @@ TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a6008
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 157	台視財經台HD
 158	台視綜合台HD
+影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
+八大精彩台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
@@ -232,7 +237,7 @@ Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 音樂 藍調,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 民謠音樂台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 204	CARTOONITO HD
-達文西頻道,http://live.9528.eu.org/4gtv.php?channel=11
+達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 229	古典音樂台
 232	梅迪奇藝術頻道HD
