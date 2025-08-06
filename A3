@@ -43,7 +43,7 @@ momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天娛樂,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-yule
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
-TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 緯來戲劇,https://z02.ubtvfans.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
 高點綜合,https://z02.ubtvfans.com/live/rx1/99/1e23ead149cd0776368080a32b2a2279/index.m3u8
 東森購物3,http://mg.52sw.top:2008/index.m3u8?pid=4gtv-4gtv103
@@ -57,8 +57,8 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 華視新聞資訊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
+TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 東森財經,https://stream.freetv.fun/056f24b278e50a392a87b759f9ee54b1a7058b40a21498556036081b6994692d.ctv
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
@@ -89,7 +89,7 @@ BBC Lifestyle,https://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c754482
 JET綜合,https://z02.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
 公視戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 公視新聞,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
 Z頻道,https://z02.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
 緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -122,7 +122,7 @@ DMAX,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 富立,http://tv.fltvshow.com.tw/hls/fltv.m3u8
 113	華視教育體育文化台HD
-ELTA娛樂,https://z02.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+ELTA娛樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
 ELTA綜合,https://z02.ubtvfans.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea28/index.m3u8
 金馬影院,http://pull.kktv8.com/livekktv/128600025.flv
 117, 華藝綜合
@@ -163,7 +163,7 @@ TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a6008
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 民視影劇,http://live.9528.eu.org/4gtv.php?channel=24
 中視菁采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
-中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
@@ -171,6 +171,7 @@ TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a6008
 影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
 八大精彩台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
+TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
@@ -270,7 +271,7 @@ Dreamworks,https://z02.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d
 Spotv,https://z02.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
 Spotv 2,https://z02.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
 Smart知識台,http://mg.52sw.top:2008/index.m3u8?pid=litv-longturn19
-亞洲旅遊台,http://mg.52sw.top:2008/index.m3u8?pid=4gtv-4gtv076
+亞洲旅遊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
 Golden 強片台,http://mg.52sw.top:2008/index.m3u8?pid=ofiii70
 周星馳台,http://mg.52sw.top:2008/index.m3u8?pid=ofiii73
 
