@@ -81,7 +81,14 @@ CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 momotv,rtmp://f13h.mine.nu/sat/tv761
-博斯運動I,https://stream.freetv.fun/c994e303526a527a313addf883d5c5577ffd177a966de4d1da7b30d170f1709a.ctv
+博斯運動I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
+博斯運動II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
+博斯高球I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
+博斯高球II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
+博斯魅力,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
+博斯網球,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
+博斯無限,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn10
+博斯無限II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 國興衛視,https://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
 BBC Lifestyle,https://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
@@ -90,7 +97,8 @@ BBC Lifestyle,https://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c754482
 金光布袋戲,http://live.9528.eu.org/4gtv.php?channel=236
 JET綜合,https://z02.ubtvfans.com/live/rx1/41/3447b27688bafd9c54de5c37f01aae8d/index.m3u8
 公視戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
+寰宇財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 鏡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 公視新聞,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
 Z頻道,https://z02.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
@@ -116,9 +124,12 @@ Channel[V],http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 靖洋卡通台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
 佛衛慈悲台,http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8?fbclid=IwAR0tOOH5nMOCvkCFTXbHgyO6P95nuOS3MNCfYDflXYkqsUVGfApmPOLWeR0
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-龍華戲劇,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
-龍華日韓,http://live.9528.eu.org/4gtv.php?channel=28
-龍華偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龍華戲劇,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
+龍華日韓,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
+龍華偶像,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
+龍華卡通,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
+龍華電影,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
+龍華經典,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
 DMAX,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 華納電影,https://z02.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -178,8 +189,9 @@ TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a6008
 TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 TRACE URBAN,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
 第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
-好消息2台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
+好消息2,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
 中天亞洲台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
