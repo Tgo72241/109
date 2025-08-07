@@ -5,6 +5,7 @@ LoveNature,p3p://173.208.176.178:31809/655fa9280009c6278edfc1176731425f
 CNN,http://125.227.210.55:8166/VideoInput/play.ts
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 台視,rtmp://f13h.mine.nu/sat/tv071
 台視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
@@ -16,7 +17,7 @@ CNN,http://125.227.210.55:8166/VideoInput/play.ts
 華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
 公視,http://211.72.65.236:8505/.m3u8
 公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
-好消息,https://4gtv.mytvsuper.xyz/litv/litv-ftv16
+好消息,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
 原住民族電視台,p3p://173.208.176.178:31809/64450b180002b23d3eeb784a0aa62e20
 客家電視台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
 BBC Earth,p3p://173.208.176.178:31809/6444eb2e000921503e6ecfe873cd10b1
@@ -35,7 +36,7 @@ momo親子台,https://yccloud.serv00.net/twjd02.php?id=live1007
 韓國娛樂台,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 東森綜合,http://220.134.196.147:9553/.m3u8
 東森超視,rtmp://220.130.201.73/sat/tv331
-東森購物2,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+東森購物2,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
 momo 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 中天綜合,http://23.224.232.221:81/kk.php?id=ctizhonghe
 37,	東風衛視台HD
@@ -47,19 +48,20 @@ TVBS歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 緯來戲劇,https://z02.ubtvfans.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
 高點綜合,https://z02.ubtvfans.com/live/rx1/99/1e23ead149cd0776368080a32b2a2279/index.m3u8
 東森購物3,http://mg.52sw.top:2008/index.m3u8?pid=4gtv-4gtv103
-東森購物1,http://mg.52sw.top:2008/index.m3u8?pid=4gtv-4gtv102
+東森購物1,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv102
 momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 壹新聞,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nexttv
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 華視新聞資訊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民視新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 TVBS新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
-東森財經,https://stream.freetv.fun/056f24b278e50a392a87b759f9ee54b1a7058b40a21498556036081b6994692d.ctv
+東森財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
@@ -137,7 +139,7 @@ thrill,https://z02.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/ind
 126	高點育樂台HD
 滾動力rollor,http://172.233.67.137:5000/4gtv/249
 128	MTV HD
-智林體育台,http://172.233.67.137:5000/4gtv/58
+智林體育台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 三立inews+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -161,7 +163,8 @@ TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a6008
 民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
 民視第一台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
-民視影劇,http://live.9528.eu.org/4gtv.php?channel=24
+民視影劇,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
+民視旅遊,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
 中視經典台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
 中視菁采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
 中視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
@@ -174,6 +177,9 @@ TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a6008
 八大精彩台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 TRACE URBAN,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
+第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
+好消息2台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
+中天亞洲台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
