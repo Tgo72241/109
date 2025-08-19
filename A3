@@ -6,24 +6,34 @@ CNN,http://125.227.210.55:8166/VideoInput/play.ts
 民視,rtmp://f13h.mine.nu:1935/sat/tv051
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+民視,http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+人間衛視,http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
 台視,rtmp://f13h.mine.nu/sat/tv071
 台視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛,http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+中視,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
 霹靂台灣台,p3p://173.208.176.178:31809/644507280004aa433edc17562e211a38
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+華視,http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
 公視,http://211.72.65.236:8505/.m3u8
+公視,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
 公視台語台,http://www.terrykang.xyz:35455/youtube/quwqlazU-c8
 好消息,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
+好消息,http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
 原住民族電視台,p3p://173.208.176.178:31809/64450b180002b23d3eeb784a0aa62e20
 客家電視台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
 BBC Earth,p3p://173.208.176.178:31809/6444eb2e000921503e6ecfe873cd10b1
 Discovery,http://61.221.215.25:8800/hls/1/index.m3u8
+Discovery,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 TLC旅遊生活,http://211.72.65.236:8511/.m3u8
+TLC旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 CN卡通頻道,http://125.227.210.55:8167/VideoInput/play.ts
 尼克兒童頻道,http://37.27.111.214:8080/live/12/hls.m3u8
 momo親子台,https://yccloud.serv00.net/twjd02.php?id=live1007
@@ -170,6 +180,7 @@ GP1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 145	Global Trekker HD
 146	ROCK Action HD
 TRACE Sport Stars,https://z02.ubtvfans.com/live/rx1/1037/560865204284fe14b7a60084e342b5eb/index.m3u8
+TRACE Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
 148	美食星球頻道HD
 149	寰宇財經台HD
 民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
