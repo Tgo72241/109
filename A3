@@ -36,14 +36,16 @@ TLC旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch
 動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
 CN卡通頻道,http://125.227.210.55:8167/VideoInput/play.ts
 尼克兒童頻道,http://37.27.111.214:8080/live/12/hls.m3u8
-momo親子台,https://yccloud.serv00.net/twjd02.php?id=live1007
+momo親子台,http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
 東森幼幼台,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-緯來綜合,https://z02.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
-三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
-三立都會台,https://stream.freetv.fun/a2abe78388038c7b7187e49d210b5e04cccb546e3808c459470e4ed685a877d7.m3u8
+東森幼幼台,http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+緯來綜合,http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+八大第一台,http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+八大綜合台,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+三立台灣台,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立都會台,http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
 韓國娛樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv016
+韓國娛樂台,http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
 東森綜合,http://220.134.196.147:9553/.m3u8
 東森超視,rtmp://220.130.201.73/sat/tv331
 東森購物2,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
@@ -63,6 +65,7 @@ momo 1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 壹新聞,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nexttv
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+東森新聞,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 華視新聞資訊,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
@@ -138,6 +141,7 @@ Channel[V],http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 龍華日韓,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
 龍華偶像,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
 龍華卡通,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
+龍華卡通,http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
 龍華電影,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
 龍華經典,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
 DMAX,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
@@ -300,6 +304,7 @@ Spotv,https://z02.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/ind
 Spotv 2,https://z02.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
 SMART知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
 亞洲旅遊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
+亞洲旅遊台,http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
 Golden 強片台,http://mg.52sw.top:2008/index.m3u8?pid=ofiii70
 周星馳台,http://mg.52sw.top:2008/index.m3u8?pid=ofiii73
 
