@@ -101,8 +101,10 @@ amc電影台,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_T
 CINEMAX,http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來育樂,http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
@@ -119,6 +121,7 @@ momoTV,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3
 博斯無限II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
 國興衛視,https://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
 BBC Lifestyle,https://z02.ubtvfans.com/live/rx1/424/efbc520fede3c2465a725c7544821bda/index.m3u8
 公視3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
@@ -219,6 +222,7 @@ TRACE Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/
 中視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 158	台視綜合台HD
 影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
@@ -339,3 +343,5 @@ Pet Club,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 313	Arirang TV HD
 314	德國之聲電視台HD
 315	法國TV5電視台HD
+東森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
