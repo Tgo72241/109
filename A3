@@ -16,7 +16,8 @@ CNN,http://125.227.210.55:8166/VideoInput/play.ts
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 中視,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
-霹靂台灣台,p3p://173.208.176.178:31809/644507280004aa433edc17562e211a38
+霹靂台灣台,https://php.946985.xyz/4gtv.php?ch=4gtv-live145
+金光布袋戲,https://php.946985.xyz/4gtv.php?ch=4gtv-live144
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
 華視,http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
