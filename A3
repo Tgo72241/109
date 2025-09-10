@@ -113,6 +113,7 @@ DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 momoTV,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+momoTV,rtmp://f13h.mine.nu/sat/tv761
 博斯運動I,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
 博斯運動I,http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
 博斯運動II,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
